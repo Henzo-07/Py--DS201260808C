@@ -1,0 +1,1001 @@
+Customer_id,Age,Gender,Income_level,Credit_score,Account_type,Loan_History,Debt_Ratio,Card_usage,Account_activity,Default_status
+1,21,male,poor,660,gold,Loan settled,0.67,clothing store,Changed email address,active
+2,34,non-binary,moderate,740,student,Loan restructured,0.91,online shopping,Posted a review,inactive
+3,31,male,low,650,"",Loan refinanced,0.78,grocery store,Made a purchase,active
+4,48,non-binary,financially secure,780,student,Paid in full,0.12,gas station,Reset password,inactive
+5,28,female,poor,800,"",Loan forgiven,0.78,bookstore,Changed email address,active
+6,41,non-binary,very high,750,student,Missed payment,0.91,grocery store,Updated profile,inactive
+7,19,non-binary,wealthy,730,platinum,Missed payment,0.56,coffee shop,Requested password reset,active
+8,27,female,financially secure,740,free,Missed payment,0.42,gym,Updated profile,inactive
+9,36,male,privileged,640,Savings,Loan default,0.78,movie theater,Reset password,active
+10,34,female,destitute,690,platinum,Loan default,0.91,online shopping,Logged in,active
+11,40,male,poor,790,"",Loan transferred,0.91,electronics store,Made a purchase,inactive
+12,40,non-binary,rich,680,business,Paid in full,0.12,restaurant dining,Posted a review,inactive
+13,25,non-binary,financially challenged,700,platinum,Paid in full,0.19,grocery store,Posted a review,active
+14,23,non-binary,financially unstable,660,student,Loan restructured,0.78,bookstore,Reset password,active
+15,41,female,impoverished,730,platinum,Loan settled,0.78,gas station,Logged in,active
+16,43,non-binary,upper class,780,basic,Loan settled,0.12,movie theater,Subscribed to newsletter,active
+17,24,non-binary,well-heeled,760,trial,Loan default,0.78,restaurant dining,Subscribed to newsletter,inactive
+18,24,male,comfortable,630,basic,Paid in full,0.84,gas station,Requested password reset,active
+19,25,female,underprivileged,750,student,Loan restructured,0.56,gym,Changed email address,inactive
+20,20,female,lower middle class,640,business,Loan restructured,0.78,coffee shop,Requested password reset,active
+21,31,male,destitute,680,platinum,Paid in full,0.56,online shopping,Changed email address,active
+22,45,male,financially dependent,640,family,Missed payment,0.78,movie theater,Added item to cart,active
+23,22,non-binary,high-income,650,"",Missed payment,0.56,movie theater,Added item to cart,inactive
+24,27,non-binary,working class,700,Savings,Early repayment,0.33,restaurant dining,Logged in,inactive
+25,27,non-binary,living paycheck to paycheck,790,free,Loan refinanced,0.91,gym,Made a purchase,active
+26,20,female,well-heeled,630,platinum,Loan restructured,0.91,movie theater,Updated profile,active
+27,48,female,financially unstable,630,gold,Loan restructured,0.78,clothing store,Logged in,inactive
+28,46,male,barely making ends meet,790,family,Paid in full,0.78,clothing store,Logged in,inactive
+29,33,male,rich,660,basic,Loan transferred,0.33,grocery store,Logged in,active
+30,44,male,very low,710,Savings,Loan forgiven,0.12,movie theater,Logged in,active
+31,18,female,financially challenged,800,business,Loan transferred,0.12,coffee shop,Viewed account history,inactive
+32,48,male,prosperous,640,free,Missed payment,0.25,movie theater,Viewed account history,active
+33,47,male,blue collar,770,trial,Late payment,0.19,clothing store,Subscribed to newsletter,active
+34,24,non-binary,poverty-stricken,700,platinum,Early repayment,0.25,electronics store,Added item to cart,inactive
+35,22,female,lower class,730,platinum,Loan settled,0.19,online shopping,Reset password,inactive
+36,37,female,high,620,gold,Loan transferred,0.25,movie theater,Viewed account history,inactive
+37,18,male,upper middle class,750,basic,Paid in full,0.33,bookstore,Added item to cart,inactive
+38,19,female,barely making ends meet,750,gold,Loan transferred,0.12,gas station,Posted a review,active
+39,29,male,working class,690,Savings,Late payment,0.33,electronics store,Updated profile,active
+40,20,non-binary,poor,630,silver,Late payment,0.12,online shopping,Updated profile,inactive
+41,20,female,low-income,770,student,Early repayment,0.19,online shopping,Subscribed to newsletter,active
+42,41,male,moderate,740,business,Missed payment,0.84,coffee shop,Updated profile,inactive
+43,39,male,well-paid,620,premium,Loan settled,0.19,bookstore,Viewed account history,active
+44,21,female,financially insecure,720,trial,Late payment,0.78,gas station,Subscribed to newsletter,active
+45,37,female,blue collar,740,trial,Loan refinanced,0.67,clothing store,Changed email address,active
+46,32,male,well-off,660,Savings,Loan restructured,0.25,coffee shop,Added item to cart,active
+47,19,female,financially comfortable,710,family,Early repayment,0.78,coffee shop,Reset password,active
+48,21,male,well-off,750,family,Loan settled,0.42,gas station,Logged in,active
+49,18,non-binary,destitute,760,business,Loan refinanced,0.12,clothing store,Reset password,active
+50,18,female,prosperous,630,platinum,Early repayment,0.33,clothing store,Made a purchase,active
+51,29,male,financially stable,620,platinum,Loan restructured,0.78,movie theater,Made a purchase,active
+52,29,male,very low,640,premium,Loan default,0.78,gas station,Logged in,inactive
+53,46,non-binary,affluent,800,business,Loan default,0.12,grocery store,Reset password,inactive
+54,47,non-binary,poor,700,platinum,Loan refinanced,0.84,coffee shop,Requested password reset,inactive
+55,20,male,working class,630,free,Loan refinanced,0.33,clothing store,Logged in,inactive
+56,47,male,financially vulnerable,790,trial,Late payment,0.56,bookstore,Logged in,active
+57,42,female,financially insecure,680,trial,Loan transferred,0.19,gas station,Requested password reset,inactive
+58,20,male,blue collar,790,business,Loan transferred,0.84,coffee shop,Made a purchase,inactive
+59,29,non-binary,privileged,790,family,Early repayment,0.42,clothing store,Requested password reset,inactive
+60,34,non-binary,middle class,620,premium,Loan settled,0.78,electronics store,Changed email address,active
+61,23,male,struggling,670,Savings,Loan forgiven,0.25,electronics store,Changed email address,inactive
+62,23,male,low-income,790,"",Loan restructured,0.19,gas station,Changed email address,inactive
+63,22,female,underprivileged,770,free,Loan default,0.12,gas station,Posted a review,inactive
+64,26,male,affluent,680,"",Loan refinanced,0.25,movie theater,Reset password,active
+65,48,non-binary,financially insecure,640,student,Early repayment,0.12,restaurant dining,Changed email address,active
+66,43,male,lower middle class,660,gold,Loan settled,0.67,coffee shop,Logged in,inactive
+67,42,non-binary,middle class,750,Savings,Loan transferred,0.42,movie theater,Added item to cart,active
+68,24,male,living paycheck to paycheck,620,gold,Missed payment,0.91,gas station,Subscribed to newsletter,active
+69,21,female,rich,770,student,Paid in full,0.42,electronics store,Subscribed to newsletter,active
+70,24,female,blue collar,700,silver,Loan settled,0.84,restaurant dining,Logged in,inactive
+71,43,female,medium,630,"",Paid in full,0.42,electronics store,Viewed account history,inactive
+72,28,male,medium,650,Savings,Loan default,0.67,clothing store,Reset password,active
+73,19,male,barely making ends meet,700,silver,Loan refinanced,0.42,coffee shop,Logged in,active
+74,44,female,upper class,770,free,Loan restructured,0.12,movie theater,Requested password reset,active
+75,47,male,privileged,760,Savings,Late payment,0.25,clothing store,Updated profile,active
+76,41,non-binary,impoverished,710,platinum,Loan transferred,0.12,electronics store,Updated profile,inactive
+77,39,female,low,740,business,Loan settled,0.19,gas station,Updated profile,active
+78,47,non-binary,high,750,platinum,Paid in full,0.84,electronics store,Added item to cart,inactive
+79,47,non-binary,struggling,760,business,Early repayment,0.19,restaurant dining,Made a purchase,inactive
+80,43,female,barely making ends meet,740,business,Loan default,0.91,clothing store,Made a purchase,active
+81,24,non-binary,destitute,780,trial,Loan restructured,0.67,gym,Logged in,inactive
+82,33,male,financially challenged,620,business,Loan default,0.19,electronics store,Viewed account history,inactive
+83,20,non-binary,well-off,620,business,Loan forgiven,0.25,bookstore,Made a purchase,inactive
+84,26,female,wealthy,770,Savings,Paid in full,0.25,clothing store,Reset password,active
+85,31,female,financially challenged,620,silver,Missed payment,0.78,grocery store,Changed email address,active
+86,29,female,middle class,630,gold,Loan transferred,0.84,online shopping,Added item to cart,inactive
+87,23,male,white collar,800,gold,Paid in full,0.33,movie theater,Reset password,active
+88,44,female,financially challenged,710,free,Late payment,0.12,restaurant dining,Updated profile,active
+89,33,female,struggling,630,business,Paid in full,0.84,electronics store,Changed email address,inactive
+90,25,male,privileged,680,business,Loan default,0.78,online shopping,Logged in,active
+91,22,non-binary,rich,790,free,Loan default,0.56,bookstore,Subscribed to newsletter,active
+92,40,male,financially independent,640,platinum,Late payment,0.42,bookstore,Viewed account history,inactive
+93,46,male,very low,760,platinum,Missed payment,0.19,online shopping,Reset password,inactive
+94,28,male,rich,710,premium,Early repayment,0.33,online shopping,Added item to cart,inactive
+95,42,non-binary,upper class,620,"",Late payment,0.12,electronics store,Posted a review,active
+96,24,non-binary,working class,620,student,Missed payment,0.56,coffee shop,Requested password reset,active
+97,28,male,well-off,770,family,Paid in full,0.19,restaurant dining,Posted a review,active
+98,45,non-binary,very low,750,trial,Loan refinanced,0.19,gym,Logged in,active
+99,33,male,well-off,760,basic,Loan forgiven,0.19,restaurant dining,Made a purchase,active
+100,23,female,upper middle class,700,silver,Loan forgiven,0.19,gas station,Made a purchase,inactive
+101,22,non-binary,low-income,730,Savings,Loan default,0.33,restaurant dining,Changed email address,inactive
+102,32,female,well-heeled,660,premium,Early repayment,0.25,restaurant dining,Updated profile,inactive
+103,21,female,struggling,790,gold,Paid in full,0.67,gym,Logged in,inactive
+104,48,male,working class,710,"",Loan restructured,0.33,grocery store,Posted a review,inactive
+105,26,non-binary,destitute,770,student,Paid in full,0.56,coffee shop,Posted a review,inactive
+106,19,female,well-paid,640,basic,Loan restructured,0.84,coffee shop,Made a purchase,inactive
+107,33,non-binary,financially vulnerable,730,trial,Missed payment,0.67,grocery store,Made a purchase,active
+108,23,female,financially stable,660,free,Paid in full,0.78,grocery store,Posted a review,inactive
+109,42,non-binary,financially insecure,680,business,Loan settled,0.67,restaurant dining,Changed email address,inactive
+110,39,male,financially stable,790,Savings,Loan default,0.12,online shopping,Subscribed to newsletter,inactive
+111,30,non-binary,very low,730,student,Paid in full,0.56,coffee shop,Updated profile,inactive
+112,21,non-binary,poverty-stricken,730,student,Early repayment,0.91,online shopping,Updated profile,inactive
+113,22,male,prosperous,770,silver,Loan transferred,0.56,clothing store,Changed email address,inactive
+114,19,male,privileged,700,trial,Late payment,0.78,restaurant dining,Posted a review,inactive
+115,44,male,poor,770,trial,Loan default,0.84,bookstore,Requested password reset,active
+116,46,female,financially secure,710,basic,Loan settled,0.91,clothing store,Changed email address,inactive
+117,32,female,well-off,700,premium,Loan forgiven,0.91,electronics store,Reset password,inactive
+118,30,non-binary,low,700,business,Loan restructured,0.84,electronics store,Reset password,active
+119,25,female,blue collar,700,free,Early repayment,0.12,bookstore,Requested password reset,inactive
+120,44,non-binary,financially secure,620,platinum,Loan refinanced,0.91,online shopping,Requested password reset,inactive
+121,47,non-binary,destitute,710,gold,Early repayment,0.33,coffee shop,Requested password reset,inactive
+122,36,non-binary,high-income,620,family,Loan default,0.67,bookstore,Made a purchase,inactive
+123,41,non-binary,financially vulnerable,700,premium,Loan restructured,0.67,bookstore,Requested password reset,inactive
+124,34,male,white collar,630,platinum,Loan default,0.67,restaurant dining,Posted a review,active
+125,34,female,poverty-stricken,740,trial,Paid in full,0.25,grocery store,Updated profile,active
+126,43,male,poverty-stricken,750,silver,Loan forgiven,0.78,movie theater,Posted a review,inactive
+127,34,female,living paycheck to paycheck,710,business,Early repayment,0.78,electronics store,Made a purchase,inactive
+128,35,non-binary,well-to-do,680,student,Loan restructured,0.67,gym,Reset password,inactive
+129,44,non-binary,working class,620,basic,Loan refinanced,0.19,movie theater,Updated profile,active
+130,28,female,wealthy,740,student,Loan refinanced,0.56,movie theater,Reset password,inactive
+131,38,male,rich,770,Savings,Loan default,0.84,restaurant dining,Added item to cart,inactive
+132,32,female,struggling,700,platinum,Paid in full,0.91,restaurant dining,Requested password reset,active
+133,26,female,prosperous,770,silver,Loan transferred,0.19,coffee shop,Reset password,active
+134,24,male,well-heeled,690,basic,Loan transferred,0.42,gym,Made a purchase,active
+135,41,male,destitute,750,Savings,Paid in full,0.19,gym,Requested password reset,inactive
+136,31,male,lower middle class,620,silver,Loan default,0.42,movie theater,Updated profile,inactive
+137,31,female,wealthy,780,trial,Early repayment,0.67,grocery store,Posted a review,inactive
+138,35,male,financially vulnerable,710,Savings,Early repayment,0.56,gym,Requested password reset,inactive
+139,21,female,very high,640,gold,Loan transferred,0.56,grocery store,Changed email address,active
+140,39,non-binary,well-off,710,business,Missed payment,0.33,gas station,Logged in,active
+141,42,non-binary,lower middle class,770,"",Loan refinanced,0.12,restaurant dining,Added item to cart,inactive
+142,48,female,financially comfortable,750,business,Paid in full,0.84,movie theater,Requested password reset,inactive
+143,28,male,struggling,730,silver,Missed payment,0.19,clothing store,Changed email address,active
+144,36,non-binary,financially insecure,710,"",Loan forgiven,0.84,bookstore,Posted a review,inactive
+145,20,female,very high,630,gold,Loan refinanced,0.12,bookstore,Made a purchase,inactive
+146,42,non-binary,impoverished,780,basic,Paid in full,0.78,clothing store,Added item to cart,inactive
+147,20,non-binary,well-off,630,gold,Missed payment,0.25,coffee shop,Updated profile,active
+148,31,male,financially challenged,710,trial,Loan restructured,0.19,restaurant dining,Added item to cart,active
+149,34,male,financially comfortable,740,gold,Missed payment,0.78,gym,Viewed account history,active
+150,42,male,middle class,740,Savings,Loan settled,0.84,clothing store,Logged in,active
+151,35,female,financially secure,660,basic,Loan forgiven,0.25,electronics store,Changed email address,active
+152,39,non-binary,low-income,760,free,Loan settled,0.78,gym,Posted a review,active
+153,33,female,very high,680,silver,Loan forgiven,0.84,clothing store,Requested password reset,active
+154,34,male,high-income,770,free,Missed payment,0.91,coffee shop,Posted a review,inactive
+155,22,female,blue collar,630,basic,Missed payment,0.33,movie theater,Reset password,inactive
+156,23,non-binary,well-paid,720,platinum,Paid in full,0.42,grocery store,Viewed account history,inactive
+157,31,male,well-off,790,trial,Early repayment,0.56,grocery store,Subscribed to newsletter,inactive
+158,48,non-binary,rich,700,trial,Early repayment,0.42,movie theater,Viewed account history,active
+159,47,non-binary,low-income,700,business,Loan forgiven,0.12,coffee shop,Logged in,inactive
+160,29,male,financially insecure,670,business,Loan default,0.25,gym,Posted a review,active
+161,44,male,blue collar,630,premium,Loan forgiven,0.67,electronics store,Requested password reset,active
+162,48,female,lower middle class,660,platinum,Paid in full,0.91,restaurant dining,Reset password,inactive
+163,27,non-binary,barely making ends meet,770,business,Loan transferred,0.25,bookstore,Made a purchase,active
+164,30,non-binary,prosperous,730,free,Loan settled,0.84,gas station,Updated profile,active
+165,45,male,low,770,Savings,Early repayment,0.91,grocery store,Requested password reset,active
+166,43,male,very high,800,premium,Loan refinanced,0.91,grocery store,Posted a review,inactive
+167,18,non-binary,well-off,720,family,Late payment,0.84,grocery store,Reset password,inactive
+168,45,female,well-to-do,640,gold,Late payment,0.78,coffee shop,Posted a review,inactive
+169,21,female,destitute,620,"",Loan settled,0.19,gas station,Requested password reset,inactive
+170,43,female,struggling,680,platinum,Missed payment,0.78,online shopping,Reset password,active
+171,44,female,well-heeled,660,"",Loan default,0.19,electronics store,Logged in,inactive
+172,26,female,well-paid,790,basic,Early repayment,0.19,online shopping,Posted a review,active
+173,29,non-binary,high-income,620,gold,Loan restructured,0.84,grocery store,Posted a review,active
+174,32,male,well-off,730,silver,Paid in full,0.33,gym,Posted a review,active
+175,48,female,very high,750,silver,Loan transferred,0.25,grocery store,Reset password,inactive
+176,26,female,financially dependent,750,"",Early repayment,0.25,movie theater,Posted a review,inactive
+177,35,male,rich,620,gold,Loan refinanced,0.12,online shopping,Changed email address,active
+178,20,male,privileged,740,premium,Loan refinanced,0.56,electronics store,Reset password,inactive
+179,28,female,poverty-stricken,640,free,Paid in full,0.12,clothing store,Updated profile,active
+180,36,male,middle-income,770,gold,Loan forgiven,0.91,gas station,Subscribed to newsletter,active
+181,30,non-binary,poverty-stricken,720,silver,Loan transferred,0.56,bookstore,Subscribed to newsletter,active
+182,48,non-binary,underprivileged,620,trial,Missed payment,0.78,grocery store,Subscribed to newsletter,inactive
+183,42,male,financially comfortable,710,platinum,Loan restructured,0.19,movie theater,Requested password reset,active
+184,33,non-binary,moderate,750,student,Loan restructured,0.56,clothing store,Made a purchase,active
+185,43,non-binary,well-to-do,670,student,Loan restructured,0.84,clothing store,Reset password,inactive
+186,25,non-binary,impoverished,750,gold,Loan refinanced,0.78,clothing store,Posted a review,active
+187,43,female,destitute,740,business,Early repayment,0.19,bookstore,Reset password,inactive
+188,38,non-binary,very low,790,premium,Loan forgiven,0.12,bookstore,Added item to cart,active
+189,22,non-binary,comfortable,650,Savings,Late payment,0.91,movie theater,Subscribed to newsletter,active
+190,28,male,financially insecure,640,gold,Loan settled,0.12,electronics store,Added item to cart,inactive
+191,25,male,poor,660,business,Loan transferred,0.25,movie theater,Logged in,active
+192,29,female,barely making ends meet,670,silver,Loan default,0.84,coffee shop,Updated profile,inactive
+193,19,non-binary,poverty-stricken,800,Savings,Loan refinanced,0.33,restaurant dining,Requested password reset,active
+194,30,female,financially secure,630,business,Loan refinanced,0.67,clothing store,Made a purchase,inactive
+195,22,male,financially independent,700,family,Loan refinanced,0.67,movie theater,Updated profile,active
+196,47,female,well-paid,800,basic,Loan restructured,0.25,gas station,Subscribed to newsletter,active
+197,48,female,affluent,740,basic,Loan transferred,0.91,grocery store,Posted a review,inactive
+198,45,non-binary,living paycheck to paycheck,660,student,Missed payment,0.12,online shopping,Viewed account history,inactive
+199,47,non-binary,financially secure,740,business,Loan forgiven,0.67,restaurant dining,Posted a review,active
+200,28,female,financially comfortable,790,platinum,Paid in full,0.33,online shopping,Reset password,inactive
+201,18,non-binary,medium,760,student,Loan settled,0.91,gym,Posted a review,active
+202,28,male,rich,650,business,Loan transferred,0.84,gas station,Updated profile,active
+203,32,female,comfortable,770,student,Loan default,0.78,online shopping,Posted a review,active
+204,31,female,struggling,730,Savings,Loan refinanced,0.25,grocery store,Reset password,active
+205,23,non-binary,financially insecure,660,silver,Missed payment,0.33,gym,Added item to cart,inactive
+206,22,male,upper middle class,730,gold,Loan transferred,0.67,gas station,Requested password reset,inactive
+207,40,female,underprivileged,790,platinum,Loan transferred,0.19,clothing store,Viewed account history,active
+208,27,male,barely making ends meet,630,free,Late payment,0.91,grocery store,Changed email address,active
+209,19,non-binary,destitute,670,family,Missed payment,0.42,restaurant dining,Changed email address,inactive
+210,43,female,destitute,800,student,Paid in full,0.84,coffee shop,Made a purchase,inactive
+211,48,male,struggling,670,premium,Loan settled,0.33,grocery store,Logged in,inactive
+212,45,female,very low,740,Savings,Loan restructured,0.25,gas station,Posted a review,inactive
+213,28,male,low-income,670,"",Loan transferred,0.84,restaurant dining,Requested password reset,active
+214,19,female,comfortable,620,silver,Loan settled,0.56,electronics store,Subscribed to newsletter,active
+215,18,non-binary,rich,800,family,Loan transferred,0.84,restaurant dining,Reset password,inactive
+216,27,male,low-income,790,student,Missed payment,0.25,grocery store,Posted a review,active
+217,33,male,lower middle class,680,student,Early repayment,0.12,online shopping,Requested password reset,active
+218,25,female,financially secure,740,trial,Loan settled,0.19,clothing store,Subscribed to newsletter,active
+219,28,female,financially vulnerable,720,student,Loan forgiven,0.42,coffee shop,Requested password reset,active
+220,45,female,lower middle class,670,platinum,Paid in full,0.67,movie theater,Reset password,active
+221,23,non-binary,financially comfortable,630,"",Paid in full,0.78,gym,Added item to cart,active
+222,21,non-binary,white collar,640,Savings,Late payment,0.67,restaurant dining,Made a purchase,active
+223,48,non-binary,very low,640,Savings,Missed payment,0.67,gym,Subscribed to newsletter,active
+224,26,female,comfortable,620,silver,Loan restructured,0.78,online shopping,Logged in,active
+225,32,female,living paycheck to paycheck,670,Savings,Loan transferred,0.78,gym,Made a purchase,active
+226,28,male,well-to-do,680,platinum,Paid in full,0.33,movie theater,Changed email address,active
+227,48,non-binary,lower middle class,750,free,Loan forgiven,0.42,online shopping,Posted a review,inactive
+228,46,female,financially secure,670,gold,Paid in full,0.78,online shopping,Subscribed to newsletter,inactive
+229,43,female,high-income,700,student,Late payment,0.91,electronics store,Changed email address,inactive
+230,46,female,underprivileged,760,Savings,Early repayment,0.25,bookstore,Posted a review,active
+231,20,male,prosperous,630,silver,Loan refinanced,0.56,gas station,Changed email address,active
+232,23,non-binary,medium,620,basic,Missed payment,0.25,gas station,Logged in,inactive
+233,30,non-binary,working class,720,Savings,Missed payment,0.19,restaurant dining,Requested password reset,inactive
+234,42,non-binary,struggling,680,platinum,Loan restructured,0.91,movie theater,Viewed account history,inactive
+235,22,non-binary,financially secure,750,gold,Loan restructured,0.91,gym,Updated profile,inactive
+236,27,non-binary,impoverished,790,family,Paid in full,0.78,clothing store,Updated profile,active
+237,44,non-binary,underprivileged,790,platinum,Missed payment,0.91,bookstore,Changed email address,active
+238,22,female,well-to-do,670,student,Missed payment,0.42,clothing store,Reset password,inactive
+239,37,female,financially vulnerable,730,student,Loan default,0.33,clothing store,Posted a review,inactive
+240,32,non-binary,financially independent,790,free,Loan default,0.42,electronics store,Viewed account history,inactive
+241,20,non-binary,upper class,630,platinum,Loan transferred,0.12,online shopping,Logged in,inactive
+242,36,male,destitute,780,free,Loan restructured,0.84,movie theater,Updated profile,active
+243,47,male,financially comfortable,680,trial,Loan default,0.56,bookstore,Updated profile,active
+244,38,non-binary,prosperous,800,Savings,Loan settled,0.91,electronics store,Viewed account history,inactive
+245,28,non-binary,struggling,790,silver,Paid in full,0.91,gym,Logged in,active
+246,26,female,well-off,630,free,Loan default,0.33,clothing store,Made a purchase,active
+247,27,female,middle-income,740,student,Loan default,0.12,grocery store,Posted a review,inactive
+248,35,female,middle class,690,trial,Loan forgiven,0.12,grocery store,Subscribed to newsletter,active
+249,34,female,impoverished,740,free,Loan settled,0.67,movie theater,Reset password,inactive
+250,25,female,blue collar,620,Savings,Early repayment,0.78,gym,Made a purchase,active
+251,41,female,low,750,free,Paid in full,0.33,clothing store,Reset password,inactive
+252,32,male,financially dependent,700,silver,Paid in full,0.67,restaurant dining,Made a purchase,active
+253,37,female,financially independent,720,silver,Loan refinanced,0.67,online shopping,Logged in,active
+254,27,male,well-paid,630,Savings,Paid in full,0.56,online shopping,Subscribed to newsletter,inactive
+255,28,male,low,650,business,Loan transferred,0.42,gym,Logged in,active
+256,22,male,affluent,740,student,Early repayment,0.56,clothing store,Changed email address,inactive
+257,25,male,lower middle class,660,free,Late payment,0.25,clothing store,Requested password reset,active
+258,34,non-binary,poor,790,silver,Missed payment,0.78,restaurant dining,Changed email address,inactive
+259,39,male,blue collar,760,business,Loan restructured,0.19,gym,Reset password,inactive
+260,43,female,struggling,680,premium,Loan forgiven,0.84,clothing store,Subscribed to newsletter,active
+261,46,non-binary,underprivileged,790,trial,Late payment,0.84,coffee shop,Reset password,active
+262,46,female,poor,700,business,Loan restructured,0.91,gas station,Viewed account history,active
+263,48,female,low,800,gold,Loan restructured,0.19,gas station,Added item to cart,inactive
+264,30,female,moderate,790,student,Paid in full,0.19,coffee shop,Reset password,inactive
+265,31,male,affluent,710,student,Loan default,0.42,gas station,Requested password reset,active
+266,43,male,moderate,640,Savings,Early repayment,0.42,coffee shop,Updated profile,inactive
+267,43,male,well-off,670,premium,Loan transferred,0.19,grocery store,Updated profile,active
+268,23,male,poor,650,premium,Loan restructured,0.91,restaurant dining,Requested password reset,inactive
+269,46,non-binary,lower class,620,silver,Loan refinanced,0.25,clothing store,Subscribed to newsletter,inactive
+270,47,female,high-income,770,basic,Paid in full,0.33,coffee shop,Changed email address,active
+271,45,non-binary,struggling,770,silver,Loan settled,0.78,gas station,Requested password reset,active
+272,22,female,well-off,690,free,Loan restructured,0.25,gym,Requested password reset,inactive
+273,23,non-binary,well-paid,790,trial,Loan restructured,0.33,electronics store,Subscribed to newsletter,inactive
+274,31,non-binary,blue collar,740,family,Loan forgiven,0.19,online shopping,Updated profile,active
+275,38,non-binary,destitute,750,trial,Loan refinanced,0.67,clothing store,Made a purchase,active
+276,41,female,underprivileged,710,student,Early repayment,0.67,clothing store,Reset password,active
+277,34,non-binary,living paycheck to paycheck,760,"",Loan refinanced,0.42,gas station,Made a purchase,active
+278,38,male,well-paid,740,Savings,Loan default,0.56,clothing store,Requested password reset,inactive
+279,46,female,well-off,740,silver,Loan forgiven,0.91,restaurant dining,Posted a review,active
+280,40,female,very high,770,family,Missed payment,0.91,bookstore,Updated profile,active
+281,39,female,rich,730,family,Loan settled,0.78,gas station,Requested password reset,active
+282,24,male,destitute,750,family,Late payment,0.84,bookstore,Requested password reset,inactive
+283,20,non-binary,financially independent,680,gold,Loan transferred,0.78,electronics store,Added item to cart,active
+284,37,male,struggling,620,gold,Loan default,0.67,gas station,Viewed account history,active
+285,22,non-binary,destitute,750,Savings,Loan transferred,0.56,online shopping,Subscribed to newsletter,inactive
+286,19,male,struggling,630,"",Loan restructured,0.56,coffee shop,Updated profile,active
+287,45,female,very high,700,student,Loan refinanced,0.84,grocery store,Changed email address,inactive
+288,23,non-binary,financially secure,700,family,Early repayment,0.67,grocery store,Updated profile,active
+289,27,female,financially insecure,800,business,Loan settled,0.12,restaurant dining,Made a purchase,active
+290,31,male,blue collar,720,Savings,Loan default,0.91,grocery store,Changed email address,active
+291,35,male,middle class,770,student,Loan settled,0.25,bookstore,Requested password reset,active
+292,20,female,lower class,670,student,Loan transferred,0.56,gym,Added item to cart,inactive
+293,34,non-binary,privileged,730,student,Late payment,0.84,movie theater,Posted a review,inactive
+294,30,non-binary,barely making ends meet,680,basic,Early repayment,0.19,gas station,Viewed account history,active
+295,43,non-binary,destitute,760,student,Paid in full,0.42,electronics store,Made a purchase,inactive
+296,36,female,middle class,740,silver,Loan default,0.12,bookstore,Viewed account history,inactive
+297,40,male,financially unstable,680,premium,Early repayment,0.84,coffee shop,Requested password reset,active
+298,44,female,well-off,670,Savings,Loan settled,0.56,restaurant dining,Made a purchase,active
+299,40,non-binary,privileged,730,basic,Loan forgiven,0.84,bookstore,Posted a review,active
+300,24,non-binary,struggling,740,gold,Loan forgiven,0.33,electronics store,Added item to cart,inactive
+301,44,male,struggling,680,basic,Paid in full,0.91,gas station,Made a purchase,active
+302,44,non-binary,destitute,700,basic,Loan default,0.84,gas station,Requested password reset,inactive
+303,41,male,destitute,710,"",Paid in full,0.33,electronics store,Requested password reset,inactive
+304,42,male,well-off,730,family,Loan transferred,0.42,electronics store,Added item to cart,active
+305,18,non-binary,moderate,740,platinum,Loan forgiven,0.42,grocery store,Requested password reset,active
+306,24,female,financially secure,770,free,Late payment,0.91,coffee shop,Updated profile,active
+307,47,female,high-income,790,silver,Loan settled,0.84,coffee shop,Updated profile,active
+308,37,non-binary,prosperous,740,"",Early repayment,0.78,grocery store,Viewed account history,inactive
+309,27,female,privileged,720,premium,Late payment,0.67,online shopping,Made a purchase,inactive
+310,44,male,living paycheck to paycheck,630,gold,Paid in full,0.67,coffee shop,Posted a review,active
+311,48,male,high,790,trial,Loan restructured,0.25,grocery store,Made a purchase,active
+312,37,male,low-income,660,gold,Loan forgiven,0.33,coffee shop,Subscribed to newsletter,inactive
+313,41,male,financially challenged,750,business,Paid in full,0.12,movie theater,Made a purchase,active
+314,38,non-binary,comfortable,620,trial,Missed payment,0.19,restaurant dining,Viewed account history,inactive
+315,35,female,high,800,student,Missed payment,0.67,grocery store,Logged in,active
+316,30,non-binary,struggling,760,"",Missed payment,0.25,electronics store,Requested password reset,inactive
+317,20,non-binary,very low,730,business,Loan forgiven,0.56,online shopping,Logged in,active
+318,37,male,well-off,780,platinum,Early repayment,0.84,electronics store,Subscribed to newsletter,active
+319,20,male,moderate,770,"",Loan transferred,0.84,online shopping,Posted a review,inactive
+320,48,male,financially secure,670,"",Paid in full,0.78,bookstore,Posted a review,inactive
+321,46,male,well-heeled,620,platinum,Missed payment,0.91,gym,Changed email address,active
+322,29,non-binary,financially independent,660,silver,Loan transferred,0.56,restaurant dining,Changed email address,inactive
+323,43,female,well-paid,700,student,Missed payment,0.12,gym,Requested password reset,active
+324,40,non-binary,financially vulnerable,790,family,Loan restructured,0.67,movie theater,Made a purchase,active
+325,24,female,financially dependent,780,free,Loan default,0.33,movie theater,Updated profile,inactive
+326,22,male,very high,670,trial,Loan forgiven,0.19,grocery store,Changed email address,active
+327,41,female,low-income,730,platinum,Paid in full,0.25,restaurant dining,Made a purchase,active
+328,23,female,poor,630,family,Loan restructured,0.12,online shopping,Posted a review,active
+329,31,non-binary,lower middle class,800,silver,Early repayment,0.25,grocery store,Requested password reset,active
+330,47,male,financially comfortable,640,"",Loan refinanced,0.84,online shopping,Changed email address,active
+331,26,female,well-paid,670,trial,Early repayment,0.33,coffee shop,Requested password reset,inactive
+332,35,non-binary,financially stable,660,"",Early repayment,0.91,bookstore,Subscribed to newsletter,inactive
+333,33,male,very high,660,platinum,Late payment,0.42,bookstore,Changed email address,inactive
+334,33,female,well-heeled,710,gold,Loan refinanced,0.84,movie theater,Subscribed to newsletter,active
+335,27,male,well-off,760,Savings,Loan restructured,0.78,electronics store,Viewed account history,inactive
+336,32,female,well-off,730,free,Loan default,0.67,gym,Logged in,inactive
+337,43,female,working class,680,silver,Paid in full,0.42,online shopping,Posted a review,active
+338,45,male,very low,750,gold,Loan settled,0.78,electronics store,Requested password reset,inactive
+339,31,female,financially dependent,710,silver,Loan settled,0.25,grocery store,Reset password,active
+340,39,female,living paycheck to paycheck,620,business,Loan restructured,0.84,movie theater,Logged in,active
+341,18,male,well-heeled,750,gold,Late payment,0.84,clothing store,Subscribed to newsletter,active
+342,38,female,comfortable,680,premium,Early repayment,0.33,grocery store,Changed email address,active
+343,29,non-binary,very high,770,silver,Loan refinanced,0.33,coffee shop,Subscribed to newsletter,active
+344,39,female,middle class,680,business,Loan refinanced,0.25,bookstore,Requested password reset,inactive
+345,18,non-binary,barely making ends meet,620,student,Loan transferred,0.12,electronics store,Reset password,inactive
+346,29,female,very high,750,free,Loan forgiven,0.42,restaurant dining,Logged in,inactive
+347,27,male,high,630,basic,Loan forgiven,0.67,electronics store,Updated profile,active
+348,31,female,middle class,700,premium,Missed payment,0.67,restaurant dining,Subscribed to newsletter,active
+349,19,male,low,630,student,Loan restructured,0.19,coffee shop,Subscribed to newsletter,active
+350,37,male,middle-income,700,family,Loan default,0.19,online shopping,Changed email address,active
+351,24,non-binary,lower middle class,680,Savings,Loan settled,0.25,gas station,Requested password reset,inactive
+352,41,non-binary,financially stable,660,gold,Loan refinanced,0.56,restaurant dining,Posted a review,inactive
+353,37,male,comfortable,700,business,Late payment,0.12,online shopping,Subscribed to newsletter,inactive
+354,34,female,financially independent,780,business,Early repayment,0.78,gym,Changed email address,active
+355,19,male,financially stable,770,business,Loan restructured,0.12,coffee shop,Added item to cart,active
+356,46,female,middle-income,670,gold,Loan default,0.33,restaurant dining,Requested password reset,inactive
+357,36,female,well-paid,720,"",Loan refinanced,0.25,clothing store,Updated profile,active
+358,45,female,low-income,790,family,Loan restructured,0.67,clothing store,Posted a review,active
+359,18,female,financially dependent,640,trial,Loan default,0.84,electronics store,Viewed account history,inactive
+360,43,non-binary,well-to-do,730,free,Missed payment,0.67,coffee shop,Viewed account history,inactive
+361,28,non-binary,very high,700,free,Early repayment,0.67,online shopping,Added item to cart,active
+362,34,male,living paycheck to paycheck,740,business,Loan refinanced,0.91,electronics store,Reset password,inactive
+363,20,female,financially unstable,770,silver,Paid in full,0.42,gym,Made a purchase,inactive
+364,19,male,privileged,760,business,Loan transferred,0.33,coffee shop,Viewed account history,active
+365,25,female,well-to-do,700,student,Loan settled,0.67,gym,Viewed account history,inactive
+366,29,male,comfortable,750,business,Loan settled,0.67,movie theater,Logged in,inactive
+367,48,female,well-paid,780,business,Loan default,0.56,movie theater,Requested password reset,active
+368,27,female,low-income,790,platinum,Missed payment,0.19,electronics store,Added item to cart,active
+369,30,female,well-paid,680,trial,Loan default,0.42,clothing store,Logged in,active
+370,18,female,high,690,student,Loan refinanced,0.12,online shopping,Made a purchase,inactive
+371,48,non-binary,privileged,700,free,Early repayment,0.12,grocery store,Requested password reset,active
+372,46,female,very high,660,student,Early repayment,0.25,gym,Requested password reset,inactive
+373,38,non-binary,financially stable,750,gold,Loan refinanced,0.91,grocery store,Reset password,inactive
+374,36,non-binary,working class,620,gold,Loan forgiven,0.91,electronics store,Changed email address,active
+375,47,non-binary,upper middle class,630,family,Missed payment,0.91,clothing store,Requested password reset,inactive
+376,22,non-binary,destitute,780,Savings,Loan settled,0.33,restaurant dining,Added item to cart,active
+377,21,non-binary,underprivileged,730,basic,Early repayment,0.78,electronics store,Made a purchase,active
+378,27,female,barely making ends meet,760,basic,Early repayment,0.33,clothing store,Added item to cart,inactive
+379,20,male,financially stable,770,family,Loan refinanced,0.12,bookstore,Subscribed to newsletter,active
+380,37,male,financially unstable,760,gold,Missed payment,0.42,movie theater,Logged in,active
+381,40,non-binary,well-off,760,premium,Loan forgiven,0.25,online shopping,Updated profile,inactive
+382,27,female,well-off,650,trial,Loan settled,0.42,grocery store,Logged in,inactive
+383,41,female,low-income,680,basic,Missed payment,0.12,coffee shop,Changed email address,active
+384,21,female,barely making ends meet,740,Savings,Missed payment,0.56,grocery store,Logged in,active
+385,26,female,well-off,750,trial,Early repayment,0.33,grocery store,Requested password reset,active
+386,22,male,financially secure,750,student,Loan transferred,0.78,movie theater,Made a purchase,inactive
+387,43,female,very high,620,platinum,Loan refinanced,0.67,coffee shop,Added item to cart,inactive
+388,48,non-binary,rich,630,premium,Loan restructured,0.56,electronics store,Added item to cart,inactive
+389,33,male,financially comfortable,720,business,Loan default,0.42,clothing store,Viewed account history,inactive
+390,27,female,high,730,"",Late payment,0.25,restaurant dining,Changed email address,active
+391,19,female,low,730,platinum,Missed payment,0.84,clothing store,Logged in,inactive
+392,30,male,financially unstable,790,gold,Early repayment,0.84,coffee shop,Viewed account history,active
+393,25,non-binary,financially challenged,660,platinum,Paid in full,0.42,coffee shop,Subscribed to newsletter,inactive
+394,41,female,financially stable,710,silver,Late payment,0.91,gas station,Changed email address,active
+395,31,male,very high,760,"",Loan restructured,0.91,gym,Updated profile,inactive
+396,21,female,prosperous,660,Savings,Loan default,0.42,gas station,Added item to cart,inactive
+397,39,non-binary,underprivileged,800,"",Early repayment,0.19,coffee shop,Posted a review,inactive
+398,48,male,medium,720,premium,Loan forgiven,0.19,bookstore,Posted a review,active
+399,26,non-binary,living paycheck to paycheck,620,business,Loan settled,0.84,clothing store,Viewed account history,inactive
+400,40,female,struggling,670,family,Early repayment,0.19,gym,Changed email address,inactive
+401,24,female,middle class,620,Savings,Paid in full,0.78,coffee shop,Added item to cart,active
+402,36,male,lower class,620,silver,Loan restructured,0.25,gas station,Logged in,active
+403,48,non-binary,well-off,790,silver,Early repayment,0.78,gas station,Posted a review,active
+404,47,female,low,800,silver,Loan settled,0.25,grocery store,Changed email address,inactive
+405,25,male,impoverished,760,trial,Missed payment,0.56,clothing store,Made a purchase,inactive
+406,34,female,living paycheck to paycheck,750,"",Loan default,0.19,clothing store,Requested password reset,active
+407,37,non-binary,upper middle class,760,"",Late payment,0.42,online shopping,Subscribed to newsletter,active
+408,42,male,moderate,670,free,Loan transferred,0.25,coffee shop,Requested password reset,active
+409,29,female,barely making ends meet,730,silver,Early repayment,0.67,online shopping,Reset password,inactive
+410,40,male,financially insecure,730,"",Loan settled,0.67,gym,Reset password,inactive
+411,46,male,upper middle class,690,free,Loan settled,0.84,electronics store,Changed email address,active
+412,45,non-binary,barely making ends meet,710,silver,Loan refinanced,0.25,online shopping,Subscribed to newsletter,inactive
+413,27,non-binary,lower class,770,student,Loan refinanced,0.56,movie theater,Requested password reset,inactive
+414,25,male,well-off,790,platinum,Loan default,0.12,movie theater,Posted a review,active
+415,44,male,destitute,700,gold,Loan default,0.91,gas station,Reset password,active
+416,44,male,rich,640,Savings,Loan transferred,0.19,movie theater,Made a purchase,active
+417,31,male,low-income,670,student,Late payment,0.84,bookstore,Made a purchase,inactive
+418,32,female,financially independent,770,free,Paid in full,0.33,bookstore,Requested password reset,inactive
+419,44,male,well-to-do,630,Savings,Loan settled,0.12,gas station,Viewed account history,active
+420,45,male,wealthy,740,student,Loan refinanced,0.19,grocery store,Added item to cart,inactive
+421,31,female,barely making ends meet,630,Savings,Loan transferred,0.67,grocery store,Viewed account history,inactive
+422,29,non-binary,very high,620,basic,Late payment,0.91,restaurant dining,Requested password reset,inactive
+423,45,male,living paycheck to paycheck,770,gold,Loan refinanced,0.42,restaurant dining,Viewed account history,inactive
+424,28,non-binary,struggling,790,trial,Missed payment,0.78,online shopping,Viewed account history,active
+425,34,male,wealthy,620,"",Loan transferred,0.25,online shopping,Changed email address,inactive
+426,36,non-binary,underprivileged,700,trial,Late payment,0.12,gas station,Changed email address,active
+427,38,female,financially insecure,780,gold,Loan refinanced,0.91,bookstore,Posted a review,inactive
+428,42,female,financially comfortable,710,silver,Loan settled,0.25,clothing store,Logged in,active
+429,18,non-binary,middle-income,790,free,Early repayment,0.33,electronics store,Logged in,active
+430,46,male,living paycheck to paycheck,630,Savings,Loan settled,0.42,bookstore,Changed email address,active
+431,24,non-binary,well-to-do,700,premium,Loan transferred,0.67,electronics store,Logged in,active
+432,42,male,affluent,660,silver,Loan refinanced,0.78,restaurant dining,Requested password reset,active
+433,27,male,upper middle class,720,family,Loan settled,0.67,online shopping,Changed email address,active
+434,42,non-binary,very high,790,family,Loan refinanced,0.42,electronics store,Requested password reset,active
+435,20,male,lower class,760,gold,Missed payment,0.25,grocery store,Viewed account history,active
+436,35,male,high,620,business,Late payment,0.42,restaurant dining,Logged in,inactive
+437,46,non-binary,middle-income,790,basic,Early repayment,0.19,gym,Subscribed to newsletter,inactive
+438,34,non-binary,affluent,640,family,Paid in full,0.42,gym,Logged in,active
+439,36,male,blue collar,800,student,Loan refinanced,0.84,gas station,Reset password,active
+440,30,non-binary,financially stable,730,student,Missed payment,0.78,gym,Logged in,active
+441,26,non-binary,struggling,710,Savings,Loan forgiven,0.33,clothing store,Reset password,active
+442,35,female,low-income,660,free,Paid in full,0.84,movie theater,Changed email address,inactive
+443,28,female,barely making ends meet,720,student,Loan refinanced,0.19,restaurant dining,Posted a review,active
+444,40,male,financially dependent,660,silver,Loan refinanced,0.67,coffee shop,Reset password,inactive
+445,27,non-binary,low-income,660,trial,Loan forgiven,0.19,movie theater,Reset password,active
+446,23,male,rich,650,silver,Missed payment,0.78,coffee shop,Reset password,inactive
+447,27,male,wealthy,670,trial,Loan default,0.42,grocery store,Posted a review,active
+448,32,female,financially independent,790,gold,Late payment,0.25,online shopping,Requested password reset,active
+449,47,male,financially dependent,630,gold,Loan transferred,0.91,clothing store,Viewed account history,active
+450,48,non-binary,financially comfortable,640,Savings,Early repayment,0.67,gas station,Posted a review,active
+451,31,male,very high,750,student,Paid in full,0.19,clothing store,Made a purchase,active
+452,44,female,financially vulnerable,730,premium,Late payment,0.25,coffee shop,Updated profile,active
+453,40,non-binary,financially insecure,750,free,Paid in full,0.12,bookstore,Reset password,active
+454,20,non-binary,wealthy,740,trial,Loan refinanced,0.42,coffee shop,Requested password reset,active
+455,48,male,very low,630,basic,Loan refinanced,0.25,clothing store,Reset password,inactive
+456,43,male,white collar,680,gold,Missed payment,0.19,online shopping,Logged in,active
+457,24,non-binary,white collar,750,family,Paid in full,0.67,grocery store,Made a purchase,active
+458,24,non-binary,comfortable,770,basic,Late payment,0.25,clothing store,Updated profile,active
+459,40,non-binary,moderate,730,business,Loan default,0.78,bookstore,Added item to cart,active
+460,29,non-binary,well-paid,790,Savings,Loan settled,0.42,gym,Reset password,inactive
+461,21,female,financially secure,710,"",Loan transferred,0.42,movie theater,Made a purchase,inactive
+462,41,female,poor,770,student,Loan transferred,0.12,grocery store,Updated profile,active
+463,34,non-binary,financially stable,680,business,Missed payment,0.78,clothing store,Posted a review,inactive
+464,23,female,struggling,710,premium,Missed payment,0.25,grocery store,Logged in,inactive
+465,33,female,financially insecure,750,business,Loan transferred,0.19,bookstore,Requested password reset,active
+466,33,male,very low,740,trial,Late payment,0.84,clothing store,Changed email address,active
+467,48,non-binary,comfortable,800,basic,Loan forgiven,0.12,coffee shop,Made a purchase,active
+468,48,female,financially independent,800,free,Paid in full,0.84,bookstore,Viewed account history,active
+469,41,non-binary,living paycheck to paycheck,760,free,Loan transferred,0.84,gas station,Subscribed to newsletter,active
+470,31,non-binary,comfortable,760,"",Loan transferred,0.56,electronics store,Subscribed to newsletter,inactive
+471,44,male,living paycheck to paycheck,680,platinum,Late payment,0.19,movie theater,Requested password reset,active
+472,21,non-binary,destitute,700,family,Loan restructured,0.67,bookstore,Made a purchase,inactive
+473,47,female,high-income,750,Savings,Late payment,0.42,clothing store,Logged in,active
+474,46,female,low,650,gold,Late payment,0.12,bookstore,Viewed account history,active
+475,31,male,middle-income,710,platinum,Loan forgiven,0.12,gas station,Added item to cart,active
+476,35,male,financially challenged,800,platinum,Loan refinanced,0.19,restaurant dining,Subscribed to newsletter,inactive
+477,26,male,struggling,640,basic,Loan restructured,0.91,coffee shop,Logged in,active
+478,36,male,medium,770,business,Loan default,0.84,gym,Subscribed to newsletter,active
+479,48,male,lower middle class,630,family,Loan default,0.91,clothing store,Updated profile,active
+480,46,male,financially stable,770,student,Loan default,0.56,online shopping,Subscribed to newsletter,active
+481,28,female,financially insecure,670,silver,Loan default,0.12,coffee shop,Subscribed to newsletter,inactive
+482,23,male,well-to-do,620,premium,Late payment,0.42,electronics store,Updated profile,inactive
+483,18,male,living paycheck to paycheck,660,trial,Missed payment,0.56,gas station,Requested password reset,active
+484,41,non-binary,well-to-do,770,premium,Loan settled,0.12,bookstore,Reset password,active
+485,23,non-binary,moderate,650,business,Late payment,0.91,coffee shop,Posted a review,active
+486,41,male,financially stable,800,"",Paid in full,0.25,grocery store,Logged in,inactive
+487,48,male,destitute,730,gold,Late payment,0.56,gym,Requested password reset,active
+488,33,non-binary,financially vulnerable,730,platinum,Loan settled,0.67,restaurant dining,Viewed account history,active
+489,29,non-binary,financially independent,620,silver,Missed payment,0.42,clothing store,Changed email address,inactive
+490,29,female,upper middle class,700,business,Loan settled,0.67,grocery store,Viewed account history,inactive
+491,27,male,white collar,660,Savings,Loan default,0.78,restaurant dining,Made a purchase,inactive
+492,18,male,rich,640,gold,Loan settled,0.91,bookstore,Requested password reset,inactive
+493,38,non-binary,living paycheck to paycheck,700,premium,Early repayment,0.56,coffee shop,Posted a review,inactive
+494,33,non-binary,struggling,730,platinum,Early repayment,0.25,gas station,Posted a review,active
+495,38,female,financially stable,750,trial,Loan settled,0.67,clothing store,Logged in,inactive
+496,37,non-binary,financially challenged,740,premium,Paid in full,0.84,clothing store,Viewed account history,inactive
+497,38,male,moderate,630,silver,Loan default,0.78,bookstore,Subscribed to newsletter,active
+498,18,male,living paycheck to paycheck,700,premium,Loan restructured,0.91,clothing store,Requested password reset,active
+499,40,male,well-heeled,740,trial,Early repayment,0.25,electronics store,Updated profile,inactive
+500,23,non-binary,wealthy,620,Savings,Loan default,0.84,gas station,Requested password reset,inactive
+501,29,female,upper middle class,780,gold,Loan refinanced,0.67,movie theater,Viewed account history,inactive
+502,42,male,middle class,750,platinum,Loan restructured,0.33,restaurant dining,Reset password,inactive
+503,37,non-binary,impoverished,640,basic,Late payment,0.84,clothing store,Added item to cart,inactive
+504,44,non-binary,poverty-stricken,790,student,Paid in full,0.56,restaurant dining,Added item to cart,inactive
+505,37,female,well-paid,790,platinum,Early repayment,0.56,movie theater,Made a purchase,inactive
+506,47,male,well-to-do,790,student,Loan settled,0.12,electronics store,Subscribed to newsletter,inactive
+507,38,female,comfortable,620,trial,Missed payment,0.25,gas station,Made a purchase,inactive
+508,48,non-binary,underprivileged,660,business,Loan restructured,0.19,gas station,Logged in,active
+509,38,male,lower class,760,platinum,Early repayment,0.91,bookstore,Posted a review,active
+510,29,female,financially independent,670,family,Loan settled,0.67,online shopping,Updated profile,active
+511,42,female,very high,800,family,Early repayment,0.56,electronics store,Logged in,active
+512,38,male,very high,700,platinum,Missed payment,0.12,bookstore,Requested password reset,inactive
+513,43,female,blue collar,630,gold,Loan refinanced,0.56,restaurant dining,Updated profile,inactive
+514,26,non-binary,financially stable,790,silver,Paid in full,0.33,grocery store,Changed email address,inactive
+515,20,non-binary,middle class,790,basic,Early repayment,0.84,clothing store,Logged in,active
+516,35,non-binary,high,770,family,Loan default,0.19,gym,Viewed account history,inactive
+517,23,male,moderate,680,student,Loan settled,0.42,movie theater,Updated profile,inactive
+518,35,male,rich,620,silver,Loan settled,0.56,gym,Posted a review,active
+519,44,non-binary,blue collar,750,family,Loan refinanced,0.67,bookstore,Posted a review,active
+520,39,male,affluent,710,"",Early repayment,0.67,clothing store,Requested password reset,active
+521,36,male,low-income,650,silver,Loan default,0.78,clothing store,Viewed account history,inactive
+522,37,non-binary,very high,780,trial,Early repayment,0.67,grocery store,Requested password reset,active
+523,39,female,well-paid,750,premium,Loan forgiven,0.78,online shopping,Subscribed to newsletter,active
+524,42,female,middle-income,710,family,Missed payment,0.67,online shopping,Added item to cart,active
+525,30,non-binary,destitute,700,family,Early repayment,0.12,coffee shop,Viewed account history,active
+526,19,female,comfortable,620,business,Late payment,0.78,electronics store,Requested password reset,inactive
+527,25,female,well-to-do,730,family,Early repayment,0.33,bookstore,Updated profile,active
+528,48,female,comfortable,640,free,Loan forgiven,0.56,electronics store,Subscribed to newsletter,inactive
+529,32,non-binary,poverty-stricken,760,trial,Early repayment,0.12,electronics store,Made a purchase,inactive
+530,44,female,lower class,750,platinum,Loan restructured,0.91,restaurant dining,Subscribed to newsletter,inactive
+531,20,non-binary,financially secure,740,family,Early repayment,0.25,gym,Viewed account history,inactive
+532,20,non-binary,well-heeled,800,premium,Loan refinanced,0.33,gas station,Viewed account history,active
+533,44,female,living paycheck to paycheck,620,gold,Loan restructured,0.42,coffee shop,Viewed account history,active
+534,26,non-binary,upper middle class,790,silver,Loan default,0.33,restaurant dining,Requested password reset,inactive
+535,29,male,very high,650,free,Loan default,0.91,coffee shop,Posted a review,inactive
+536,37,non-binary,poor,750,basic,Late payment,0.78,grocery store,Subscribed to newsletter,active
+537,18,male,low-income,640,basic,Missed payment,0.33,gym,Changed email address,inactive
+538,28,non-binary,destitute,690,free,Loan settled,0.25,coffee shop,Changed email address,inactive
+539,46,male,low,660,student,Missed payment,0.91,clothing store,Subscribed to newsletter,active
+540,37,male,well-off,620,free,Loan transferred,0.42,coffee shop,Changed email address,active
+541,28,male,living paycheck to paycheck,690,gold,Late payment,0.25,online shopping,Changed email address,active
+542,28,non-binary,poor,670,premium,Loan default,0.84,online shopping,Reset password,active
+543,32,male,destitute,640,Savings,Loan transferred,0.67,restaurant dining,Updated profile,inactive
+544,29,male,financially stable,620,family,Loan default,0.56,coffee shop,Requested password reset,active
+545,30,male,low-income,670,premium,Loan forgiven,0.78,gym,Made a purchase,inactive
+546,27,non-binary,middle-income,730,Savings,Loan settled,0.12,restaurant dining,Reset password,active
+547,48,female,working class,640,business,Loan forgiven,0.84,grocery store,Made a purchase,active
+548,26,female,high-income,640,student,Loan transferred,0.91,electronics store,Added item to cart,active
+549,41,male,low,630,free,Loan refinanced,0.78,gym,Reset password,inactive
+550,27,non-binary,upper middle class,730,free,Loan transferred,0.67,bookstore,Logged in,active
+551,29,non-binary,rich,740,silver,Loan transferred,0.33,gym,Made a purchase,inactive
+552,33,male,low,730,basic,Loan refinanced,0.25,clothing store,Made a purchase,inactive
+553,25,female,well-heeled,690,student,Loan default,0.78,coffee shop,Posted a review,inactive
+554,19,non-binary,affluent,770,family,Loan default,0.91,restaurant dining,Updated profile,inactive
+555,30,female,financially challenged,770,trial,Loan refinanced,0.56,restaurant dining,Requested password reset,active
+556,25,male,upper middle class,780,trial,Loan settled,0.19,grocery store,Changed email address,active
+557,37,female,financially secure,730,Savings,Loan restructured,0.42,movie theater,Added item to cart,active
+558,45,male,low-income,710,free,Loan settled,0.33,movie theater,Updated profile,inactive
+559,22,non-binary,well-off,640,business,Loan refinanced,0.91,bookstore,Reset password,active
+560,30,male,working class,660,silver,Loan forgiven,0.12,online shopping,Added item to cart,inactive
+561,18,non-binary,affluent,710,premium,Loan default,0.25,online shopping,Posted a review,active
+562,46,non-binary,struggling,760,silver,Loan restructured,0.91,grocery store,Requested password reset,active
+563,46,female,working class,730,trial,Early repayment,0.84,grocery store,Added item to cart,active
+564,24,non-binary,barely making ends meet,700,"",Loan transferred,0.78,coffee shop,Logged in,active
+565,31,non-binary,lower class,740,silver,Loan refinanced,0.19,clothing store,Requested password reset,active
+566,24,female,destitute,730,free,Missed payment,0.67,gas station,Viewed account history,active
+567,32,female,white collar,730,"",Loan transferred,0.25,clothing store,Added item to cart,active
+568,18,male,struggling,740,gold,Paid in full,0.33,movie theater,Posted a review,active
+569,28,non-binary,living paycheck to paycheck,620,gold,Loan transferred,0.67,grocery store,Changed email address,active
+570,40,female,financially unstable,770,silver,Loan forgiven,0.56,gas station,Logged in,active
+571,45,male,prosperous,760,Savings,Loan restructured,0.33,movie theater,Added item to cart,active
+572,46,male,financially vulnerable,750,family,Loan default,0.19,gas station,Viewed account history,active
+573,38,male,well-paid,640,family,Loan restructured,0.33,clothing store,Requested password reset,active
+574,40,female,very low,670,business,Early repayment,0.67,grocery store,Updated profile,inactive
+575,22,non-binary,comfortable,770,silver,Loan transferred,0.67,bookstore,Made a purchase,inactive
+576,24,male,prosperous,640,free,Loan forgiven,0.78,grocery store,Reset password,active
+577,43,female,living paycheck to paycheck,760,silver,Loan transferred,0.12,movie theater,Requested password reset,active
+578,41,non-binary,moderate,700,family,Early repayment,0.42,grocery store,Requested password reset,inactive
+579,23,male,high,620,family,Loan default,0.25,coffee shop,Made a purchase,inactive
+580,22,male,well-heeled,700,Savings,Loan restructured,0.84,electronics store,Subscribed to newsletter,inactive
+581,35,non-binary,well-to-do,680,gold,Loan refinanced,0.78,gas station,Logged in,inactive
+582,19,female,middle-income,630,basic,Loan forgiven,0.84,movie theater,Viewed account history,inactive
+583,27,non-binary,well-heeled,760,premium,Loan forgiven,0.67,grocery store,Subscribed to newsletter,inactive
+584,42,female,poverty-stricken,720,gold,Loan settled,0.56,online shopping,Added item to cart,active
+585,27,male,financially vulnerable,750,silver,Missed payment,0.33,clothing store,Added item to cart,active
+586,22,female,very high,660,platinum,Paid in full,0.91,grocery store,Requested password reset,active
+587,24,male,financially challenged,740,"",Loan default,0.84,clothing store,Posted a review,active
+588,26,male,financially unstable,730,gold,Loan forgiven,0.33,electronics store,Logged in,active
+589,29,male,very high,740,family,Late payment,0.67,gym,Reset password,inactive
+590,27,non-binary,white collar,760,family,Loan restructured,0.12,gym,Subscribed to newsletter,inactive
+591,18,non-binary,white collar,710,platinum,Loan default,0.25,clothing store,Subscribed to newsletter,inactive
+592,28,non-binary,struggling,620,platinum,Loan restructured,0.84,gym,Requested password reset,active
+593,40,female,low,670,platinum,Loan default,0.84,grocery store,Updated profile,inactive
+594,33,male,lower middle class,730,Savings,Late payment,0.56,gym,Reset password,active
+595,46,non-binary,barely making ends meet,670,family,Loan default,0.91,grocery store,Logged in,active
+596,39,female,low-income,770,gold,Loan restructured,0.12,grocery store,Logged in,inactive
+597,47,male,middle class,680,free,Loan default,0.33,bookstore,Logged in,inactive
+598,39,non-binary,prosperous,670,platinum,Loan refinanced,0.78,grocery store,Updated profile,active
+599,18,female,financially stable,770,"",Late payment,0.19,movie theater,Reset password,inactive
+600,36,non-binary,low-income,690,business,Paid in full,0.91,grocery store,Posted a review,active
+601,19,female,well-off,770,trial,Missed payment,0.91,grocery store,Logged in,inactive
+602,28,male,financially dependent,730,trial,Early repayment,0.84,clothing store,Subscribed to newsletter,inactive
+603,21,female,middle class,630,platinum,Late payment,0.42,gym,Changed email address,active
+604,41,female,well-off,710,silver,Loan transferred,0.25,restaurant dining,Viewed account history,inactive
+605,19,non-binary,well-off,630,gold,Loan refinanced,0.25,gym,Viewed account history,inactive
+606,41,male,financially stable,670,basic,Loan default,0.78,online shopping,Changed email address,inactive
+607,41,female,underprivileged,620,Savings,Missed payment,0.19,coffee shop,Made a purchase,inactive
+608,33,non-binary,barely making ends meet,770,trial,Loan transferred,0.25,gym,Logged in,inactive
+609,41,male,financially stable,670,premium,Loan refinanced,0.42,restaurant dining,Subscribed to newsletter,inactive
+610,25,male,financially stable,660,"",Loan forgiven,0.67,online shopping,Reset password,inactive
+611,40,male,destitute,640,basic,Early repayment,0.12,online shopping,Requested password reset,active
+612,37,non-binary,upper class,730,business,Loan restructured,0.67,bookstore,Requested password reset,inactive
+613,40,female,financially vulnerable,740,Savings,Late payment,0.33,gym,Changed email address,inactive
+614,47,non-binary,lower class,760,basic,Paid in full,0.84,restaurant dining,Reset password,active
+615,25,female,white collar,800,student,Missed payment,0.25,grocery store,Viewed account history,inactive
+616,47,female,lower class,670,free,Early repayment,0.91,gas station,Added item to cart,inactive
+617,18,non-binary,rich,800,gold,Late payment,0.84,bookstore,Updated profile,inactive
+618,48,female,barely making ends meet,630,student,Missed payment,0.84,electronics store,Made a purchase,inactive
+619,46,female,poverty-stricken,800,business,Loan transferred,0.25,gas station,Made a purchase,active
+620,34,male,well-to-do,710,student,Missed payment,0.56,coffee shop,Viewed account history,inactive
+621,25,male,financially comfortable,730,platinum,Paid in full,0.33,restaurant dining,Viewed account history,inactive
+622,35,female,financially secure,710,Savings,Loan settled,0.78,clothing store,Viewed account history,active
+623,26,non-binary,blue collar,620,trial,Paid in full,0.67,coffee shop,Changed email address,active
+624,48,female,financially stable,750,free,Loan restructured,0.19,bookstore,Reset password,active
+625,34,male,high,790,business,Loan default,0.19,restaurant dining,Changed email address,active
+626,31,female,struggling,670,student,Loan refinanced,0.84,movie theater,Reset password,active
+627,35,non-binary,poor,680,platinum,Loan transferred,0.91,gas station,Added item to cart,active
+628,33,male,very high,680,silver,Loan forgiven,0.25,online shopping,Reset password,inactive
+629,39,non-binary,comfortable,650,gold,Loan forgiven,0.56,coffee shop,Added item to cart,inactive
+630,44,female,underprivileged,670,gold,Paid in full,0.42,coffee shop,Changed email address,active
+631,34,male,moderate,710,"",Early repayment,0.84,online shopping,Requested password reset,active
+632,39,female,rich,710,gold,Loan default,0.67,movie theater,Reset password,inactive
+633,31,female,financially stable,750,Savings,Loan default,0.67,online shopping,Logged in,inactive
+634,37,non-binary,lower middle class,800,family,Loan transferred,0.84,restaurant dining,Added item to cart,inactive
+635,41,male,lower middle class,740,premium,Early repayment,0.56,electronics store,Updated profile,active
+636,25,male,white collar,740,free,Loan default,0.91,clothing store,Changed email address,active
+637,48,female,financially insecure,730,trial,Paid in full,0.42,gas station,Updated profile,inactive
+638,30,female,well-heeled,800,gold,Paid in full,0.25,online shopping,Changed email address,active
+639,18,male,destitute,700,premium,Loan refinanced,0.19,coffee shop,Posted a review,active
+640,40,female,underprivileged,680,Savings,Early repayment,0.78,online shopping,Added item to cart,inactive
+641,20,non-binary,moderate,740,gold,Loan forgiven,0.84,online shopping,Posted a review,active
+642,25,male,well-paid,750,platinum,Loan refinanced,0.84,electronics store,Logged in,active
+643,27,male,financially independent,780,premium,Paid in full,0.67,gas station,Viewed account history,inactive
+644,22,male,poor,700,student,Loan restructured,0.91,bookstore,Subscribed to newsletter,active
+645,23,male,financially challenged,760,free,Paid in full,0.56,bookstore,Requested password reset,active
+646,25,non-binary,high,710,business,Loan forgiven,0.67,bookstore,Logged in,inactive
+647,23,female,well-paid,740,business,Loan default,0.91,gas station,Subscribed to newsletter,active
+648,35,non-binary,rich,630,basic,Paid in full,0.12,clothing store,Posted a review,active
+649,31,female,financially insecure,800,Savings,Early repayment,0.42,movie theater,Reset password,inactive
+650,26,female,struggling,790,student,Loan forgiven,0.84,gym,Posted a review,inactive
+651,34,female,struggling,710,Savings,Loan default,0.91,coffee shop,Updated profile,inactive
+652,26,non-binary,financially insecure,670,family,Missed payment,0.56,gas station,Changed email address,active
+653,30,female,destitute,650,Savings,Loan restructured,0.42,gym,Updated profile,inactive
+654,35,male,low-income,640,free,Late payment,0.84,restaurant dining,Reset password,active
+655,27,female,lower class,670,family,Loan forgiven,0.12,grocery store,Requested password reset,active
+656,38,non-binary,middle class,670,Savings,Loan refinanced,0.78,bookstore,Viewed account history,active
+657,38,female,financially insecure,640,gold,Loan refinanced,0.19,coffee shop,Changed email address,active
+658,38,female,wealthy,640,premium,Loan refinanced,0.67,coffee shop,Reset password,inactive
+659,21,female,well-to-do,630,student,Paid in full,0.78,coffee shop,Updated profile,active
+660,27,male,financially independent,760,family,Early repayment,0.78,bookstore,Viewed account history,inactive
+661,41,female,financially insecure,670,premium,Loan refinanced,0.78,movie theater,Logged in,inactive
+662,39,male,well-off,730,premium,Loan default,0.12,coffee shop,Viewed account history,inactive
+663,41,female,underprivileged,750,Savings,Loan default,0.12,gas station,Subscribed to newsletter,inactive
+664,31,non-binary,financially secure,770,"",Loan transferred,0.19,online shopping,Posted a review,inactive
+665,25,female,financially stable,700,gold,Loan forgiven,0.67,grocery store,Viewed account history,inactive
+666,25,female,financially comfortable,680,free,Early repayment,0.33,gas station,Viewed account history,active
+667,42,male,very high,760,"",Loan transferred,0.56,clothing store,Updated profile,active
+668,19,male,upper class,790,basic,Late payment,0.42,gas station,Made a purchase,inactive
+669,24,male,destitute,670,free,Loan refinanced,0.91,coffee shop,Reset password,active
+670,39,female,destitute,660,free,Loan settled,0.78,movie theater,Subscribed to newsletter,active
+671,40,female,lower middle class,630,student,Loan forgiven,0.12,bookstore,Viewed account history,inactive
+672,33,male,poor,760,Savings,Loan settled,0.78,electronics store,Reset password,active
+673,41,non-binary,financially dependent,700,basic,Loan refinanced,0.56,restaurant dining,Added item to cart,active
+674,41,female,blue collar,720,silver,Loan forgiven,0.56,electronics store,Updated profile,inactive
+675,36,non-binary,white collar,660,business,Missed payment,0.19,online shopping,Requested password reset,active
+676,46,male,poor,690,business,Loan default,0.84,grocery store,Logged in,active
+677,27,non-binary,financially unstable,770,basic,Loan transferred,0.12,coffee shop,Posted a review,inactive
+678,32,female,affluent,700,Savings,Loan refinanced,0.78,coffee shop,Posted a review,active
+679,33,female,white collar,790,business,Late payment,0.42,gym,Changed email address,active
+680,42,male,well-off,660,gold,Early repayment,0.91,grocery store,Reset password,inactive
+681,37,male,high,770,premium,Loan restructured,0.42,gas station,Updated profile,active
+682,36,male,prosperous,750,student,Loan default,0.78,clothing store,Reset password,inactive
+683,35,non-binary,very high,710,trial,Loan transferred,0.25,grocery store,Reset password,inactive
+684,23,female,living paycheck to paycheck,800,free,Late payment,0.12,restaurant dining,Requested password reset,inactive
+685,33,non-binary,barely making ends meet,740,platinum,Loan refinanced,0.84,movie theater,Reset password,inactive
+686,46,female,well-paid,750,free,Early repayment,0.78,restaurant dining,Subscribed to newsletter,active
+687,45,female,underprivileged,620,business,Loan transferred,0.67,electronics store,Viewed account history,inactive
+688,43,non-binary,white collar,640,trial,Loan forgiven,0.56,electronics store,Made a purchase,active
+689,42,female,destitute,670,basic,Paid in full,0.19,online shopping,Logged in,active
+690,32,female,financially stable,740,premium,Paid in full,0.67,clothing store,Updated profile,active
+691,26,male,upper class,800,trial,Loan refinanced,0.78,grocery store,Viewed account history,active
+692,27,non-binary,financially comfortable,750,"",Loan forgiven,0.12,restaurant dining,Made a purchase,active
+693,48,male,financially vulnerable,800,trial,Paid in full,0.42,online shopping,Subscribed to newsletter,inactive
+694,39,non-binary,well-to-do,670,free,Loan restructured,0.12,electronics store,Posted a review,active
+695,43,male,middle class,800,business,Late payment,0.67,bookstore,Updated profile,inactive
+696,46,male,very high,650,"",Early repayment,0.67,clothing store,Changed email address,active
+697,40,female,lower class,710,platinum,Loan refinanced,0.56,gas station,Added item to cart,active
+698,38,non-binary,lower class,680,trial,Loan restructured,0.84,gas station,Logged in,active
+699,20,female,destitute,630,family,Paid in full,0.56,gym,Changed email address,inactive
+700,23,male,financially stable,760,family,Loan restructured,0.56,electronics store,Logged in,inactive
+701,21,male,financially dependent,630,trial,Paid in full,0.84,restaurant dining,Logged in,inactive
+702,30,non-binary,impoverished,680,family,Loan default,0.67,gas station,Updated profile,inactive
+703,18,male,financially challenged,750,gold,Paid in full,0.56,clothing store,Reset password,active
+704,22,male,middle-income,750,business,Loan settled,0.84,bookstore,Changed email address,active
+705,33,female,upper middle class,750,basic,Loan restructured,0.78,restaurant dining,Made a purchase,active
+706,45,non-binary,upper class,660,business,Early repayment,0.25,gym,Logged in,inactive
+707,41,non-binary,comfortable,680,silver,Early repayment,0.33,restaurant dining,Updated profile,inactive
+708,29,non-binary,prosperous,730,student,Paid in full,0.25,coffee shop,Reset password,inactive
+709,23,non-binary,well-to-do,630,gold,Loan default,0.78,grocery store,Made a purchase,inactive
+710,41,female,financially independent,730,Savings,Loan default,0.91,online shopping,Posted a review,active
+711,46,non-binary,destitute,740,student,Late payment,0.67,bookstore,Changed email address,active
+712,30,male,well-off,800,student,Missed payment,0.67,movie theater,Reset password,active
+713,43,non-binary,working class,700,"",Loan settled,0.12,online shopping,Reset password,inactive
+714,18,male,medium,790,premium,Loan settled,0.78,online shopping,Requested password reset,active
+715,28,male,blue collar,730,trial,Paid in full,0.84,electronics store,Subscribed to newsletter,inactive
+716,22,non-binary,upper class,680,free,Late payment,0.33,coffee shop,Updated profile,inactive
+717,43,non-binary,destitute,630,platinum,Loan refinanced,0.33,bookstore,Viewed account history,active
+718,29,female,upper middle class,700,trial,Loan restructured,0.42,grocery store,Reset password,inactive
+719,18,female,well-heeled,630,gold,Loan forgiven,0.84,movie theater,Logged in,inactive
+720,35,male,financially unstable,760,platinum,Loan forgiven,0.56,gas station,Subscribed to newsletter,active
+721,29,female,rich,730,business,Missed payment,0.78,electronics store,Updated profile,active
+722,33,male,financially independent,680,Savings,Missed payment,0.19,movie theater,Logged in,inactive
+723,41,female,impoverished,630,gold,Loan restructured,0.67,restaurant dining,Posted a review,active
+724,36,female,wealthy,790,gold,Loan forgiven,0.19,electronics store,Changed email address,inactive
+725,23,non-binary,medium,700,trial,Loan settled,0.91,coffee shop,Logged in,active
+726,38,female,financially insecure,740,basic,Loan transferred,0.67,grocery store,Updated profile,inactive
+727,28,female,financially challenged,650,platinum,Late payment,0.19,grocery store,Requested password reset,active
+728,42,male,blue collar,640,gold,Early repayment,0.25,electronics store,Made a purchase,active
+729,20,non-binary,financially secure,790,silver,Paid in full,0.84,movie theater,Updated profile,inactive
+730,38,non-binary,financially dependent,620,"",Early repayment,0.42,coffee shop,Reset password,active
+731,21,female,financially secure,720,student,Loan refinanced,0.25,clothing store,Reset password,inactive
+732,36,non-binary,well-paid,620,platinum,Missed payment,0.42,coffee shop,Posted a review,active
+733,43,non-binary,underprivileged,660,gold,Late payment,0.42,grocery store,Updated profile,inactive
+734,45,female,upper class,770,student,Missed payment,0.56,online shopping,Changed email address,active
+735,39,male,affluent,730,student,Loan default,0.19,movie theater,Subscribed to newsletter,active
+736,22,male,wealthy,770,"",Loan restructured,0.91,movie theater,Subscribed to newsletter,inactive
+737,42,non-binary,medium,790,platinum,Late payment,0.33,restaurant dining,Updated profile,active
+738,18,female,well-to-do,660,trial,Loan restructured,0.25,restaurant dining,Requested password reset,inactive
+739,31,male,poor,700,"",Loan default,0.42,restaurant dining,Requested password reset,inactive
+740,28,non-binary,financially challenged,730,family,Early repayment,0.42,restaurant dining,Changed email address,inactive
+741,39,female,financially dependent,730,gold,Loan forgiven,0.78,grocery store,Requested password reset,active
+742,23,non-binary,privileged,630,free,Loan default,0.42,coffee shop,Reset password,inactive
+743,48,male,impoverished,800,"",Missed payment,0.84,restaurant dining,Reset password,inactive
+744,21,female,well-paid,740,silver,Loan forgiven,0.84,clothing store,Viewed account history,active
+745,26,male,well-to-do,790,basic,Loan forgiven,0.42,clothing store,Added item to cart,inactive
+746,23,female,middle-income,690,free,Loan default,0.42,online shopping,Reset password,inactive
+747,25,male,destitute,800,silver,Loan settled,0.42,online shopping,Reset password,inactive
+748,47,non-binary,lower class,640,Savings,Loan restructured,0.56,grocery store,Reset password,inactive
+749,41,male,struggling,770,family,Loan refinanced,0.19,gym,Requested password reset,active
+750,36,male,very low,760,family,Paid in full,0.91,coffee shop,Updated profile,inactive
+751,19,male,financially challenged,770,free,Loan restructured,0.84,coffee shop,Added item to cart,active
+752,41,male,affluent,650,basic,Loan settled,0.42,gas station,Changed email address,active
+753,23,male,low,720,student,Loan restructured,0.91,online shopping,Changed email address,active
+754,24,female,destitute,790,platinum,Late payment,0.19,bookstore,Updated profile,active
+755,37,non-binary,affluent,760,trial,Loan settled,0.42,clothing store,Changed email address,inactive
+756,48,female,low-income,750,business,Missed payment,0.25,grocery store,Posted a review,inactive
+757,25,female,poor,790,trial,Loan default,0.33,clothing store,Reset password,inactive
+758,47,male,well-paid,750,"",Early repayment,0.19,bookstore,Subscribed to newsletter,inactive
+759,45,male,affluent,640,platinum,Early repayment,0.12,online shopping,Logged in,inactive
+760,39,male,barely making ends meet,670,trial,Loan settled,0.67,grocery store,Added item to cart,active
+761,23,male,well-off,630,family,Loan restructured,0.12,electronics store,Posted a review,active
+762,37,non-binary,blue collar,670,platinum,Loan transferred,0.12,online shopping,Reset password,active
+763,39,female,struggling,770,student,Loan restructured,0.33,online shopping,Posted a review,inactive
+764,20,non-binary,living paycheck to paycheck,790,gold,Loan forgiven,0.19,clothing store,Updated profile,active
+765,21,male,destitute,800,basic,Late payment,0.91,grocery store,Requested password reset,inactive
+766,38,non-binary,wealthy,760,free,Loan default,0.42,movie theater,Logged in,inactive
+767,47,female,struggling,660,"",Loan settled,0.56,movie theater,Posted a review,active
+768,18,non-binary,white collar,660,platinum,Loan settled,0.19,electronics store,Added item to cart,inactive
+769,25,male,upper middle class,770,business,Loan refinanced,0.78,gym,Reset password,inactive
+770,21,female,well-heeled,760,gold,Loan transferred,0.78,restaurant dining,Logged in,inactive
+771,36,female,well-to-do,700,gold,Missed payment,0.67,bookstore,Viewed account history,inactive
+772,41,female,medium,670,basic,Early repayment,0.78,bookstore,Logged in,inactive
+773,21,female,upper middle class,630,gold,Loan restructured,0.19,gym,Reset password,inactive
+774,24,non-binary,well-off,760,Savings,Loan forgiven,0.91,gas station,Reset password,active
+775,42,non-binary,high,680,"",Loan restructured,0.33,clothing store,Requested password reset,inactive
+776,36,male,very low,700,basic,Loan default,0.67,movie theater,Posted a review,inactive
+777,34,non-binary,low-income,770,"",Loan refinanced,0.84,bookstore,Requested password reset,inactive
+778,33,male,very high,660,student,Paid in full,0.25,gym,Made a purchase,active
+779,43,female,well-off,760,family,Loan forgiven,0.84,electronics store,Reset password,inactive
+780,30,non-binary,low,670,family,Loan restructured,0.91,online shopping,Subscribed to newsletter,inactive
+781,19,male,well-heeled,750,trial,Loan refinanced,0.25,clothing store,Added item to cart,active
+782,33,non-binary,financially comfortable,680,Savings,Missed payment,0.84,grocery store,Posted a review,active
+783,37,non-binary,financially dependent,740,free,Late payment,0.19,online shopping,Changed email address,active
+784,40,male,financially vulnerable,730,trial,Early repayment,0.56,clothing store,Added item to cart,active
+785,21,non-binary,financially stable,670,premium,Early repayment,0.78,coffee shop,Made a purchase,active
+786,22,male,well-paid,670,free,Loan default,0.42,electronics store,Made a purchase,inactive
+787,41,male,barely making ends meet,680,silver,Missed payment,0.84,electronics store,Posted a review,inactive
+788,30,non-binary,white collar,790,basic,Loan restructured,0.78,gym,Requested password reset,active
+789,30,female,well-off,640,gold,Late payment,0.25,movie theater,Updated profile,inactive
+790,25,female,very low,760,free,Early repayment,0.19,grocery store,Made a purchase,active
+791,43,female,financially stable,680,premium,Late payment,0.42,gym,Updated profile,active
+792,23,female,prosperous,670,Savings,Loan default,0.12,coffee shop,Made a purchase,inactive
+793,30,male,impoverished,760,gold,Early repayment,0.25,gym,Added item to cart,active
+794,33,non-binary,upper class,620,Savings,Loan restructured,0.91,movie theater,Subscribed to newsletter,active
+795,40,male,struggling,630,family,Paid in full,0.42,movie theater,Added item to cart,active
+796,45,non-binary,destitute,680,platinum,Late payment,0.84,online shopping,Subscribed to newsletter,inactive
+797,38,male,blue collar,770,family,Loan default,0.33,online shopping,Requested password reset,inactive
+798,38,female,moderate,770,platinum,Loan forgiven,0.19,clothing store,Added item to cart,active
+799,45,non-binary,high-income,620,Savings,Loan settled,0.91,gas station,Made a purchase,inactive
+800,41,non-binary,middle-income,670,platinum,Loan settled,0.67,electronics store,Changed email address,inactive
+801,23,non-binary,very high,760,free,Loan refinanced,0.25,movie theater,Made a purchase,active
+802,45,male,working class,710,free,Loan transferred,0.42,coffee shop,Changed email address,active
+803,45,male,comfortable,680,platinum,Loan transferred,0.19,bookstore,Reset password,active
+804,36,female,well-off,680,family,Loan refinanced,0.19,gym,Logged in,inactive
+805,25,non-binary,destitute,700,free,Loan transferred,0.42,restaurant dining,Added item to cart,inactive
+806,47,female,poverty-stricken,660,gold,Missed payment,0.78,clothing store,Updated profile,active
+807,24,female,financially insecure,640,trial,Early repayment,0.84,gas station,Requested password reset,active
+808,37,female,lower class,750,trial,Late payment,0.84,bookstore,Subscribed to newsletter,active
+809,18,male,middle-income,740,premium,Loan transferred,0.19,movie theater,Viewed account history,active
+810,30,male,upper middle class,800,family,Loan default,0.42,electronics store,Reset password,inactive
+811,22,male,working class,750,Savings,Late payment,0.78,online shopping,Posted a review,active
+812,21,male,high-income,780,platinum,Late payment,0.12,gas station,Changed email address,active
+813,25,female,destitute,710,trial,Loan forgiven,0.12,online shopping,Subscribed to newsletter,active
+814,46,non-binary,destitute,780,basic,Loan settled,0.12,gym,Changed email address,inactive
+815,23,non-binary,financially stable,800,business,Loan refinanced,0.78,electronics store,Subscribed to newsletter,inactive
+816,31,female,privileged,740,student,Late payment,0.56,bookstore,Updated profile,active
+817,20,non-binary,comfortable,780,gold,Loan refinanced,0.78,restaurant dining,Updated profile,inactive
+818,23,male,struggling,780,premium,Loan transferred,0.33,clothing store,Logged in,inactive
+819,39,non-binary,working class,800,Savings,Paid in full,0.84,movie theater,Logged in,active
+820,27,male,high-income,720,gold,Loan transferred,0.25,coffee shop,Subscribed to newsletter,active
+821,29,female,upper class,690,student,Loan settled,0.56,gas station,Logged in,inactive
+822,22,non-binary,high,640,family,Paid in full,0.78,restaurant dining,Made a purchase,active
+823,40,female,destitute,640,free,Loan settled,0.12,movie theater,Reset password,active
+824,43,male,wealthy,650,family,Early repayment,0.33,movie theater,Updated profile,inactive
+825,44,male,upper middle class,730,basic,Missed payment,0.42,coffee shop,Requested password reset,inactive
+826,18,non-binary,rich,740,free,Late payment,0.78,coffee shop,Added item to cart,inactive
+827,32,non-binary,financially vulnerable,790,Savings,Loan transferred,0.19,bookstore,Posted a review,active
+828,18,non-binary,low,650,Savings,Loan default,0.91,online shopping,Added item to cart,inactive
+829,30,female,underprivileged,740,premium,Loan forgiven,0.91,gym,Logged in,inactive
+830,22,male,well-paid,700,free,Loan transferred,0.84,electronics store,Updated profile,active
+831,27,non-binary,financially secure,790,free,Loan refinanced,0.84,online shopping,Updated profile,active
+832,38,male,medium,800,Savings,Loan restructured,0.19,clothing store,Reset password,active
+833,48,female,affluent,730,silver,Early repayment,0.12,grocery store,Made a purchase,active
+834,22,non-binary,working class,680,premium,Loan forgiven,0.78,gas station,Made a purchase,inactive
+835,33,female,poverty-stricken,800,Savings,Early repayment,0.19,coffee shop,Logged in,inactive
+836,45,male,poverty-stricken,730,free,Loan refinanced,0.12,clothing store,Reset password,active
+837,22,non-binary,medium,730,family,Loan forgiven,0.25,gym,Posted a review,active
+838,32,female,middle class,770,student,Early repayment,0.84,grocery store,Updated profile,active
+839,24,female,poverty-stricken,790,premium,Early repayment,0.19,movie theater,Reset password,active
+840,36,non-binary,prosperous,790,business,Loan settled,0.78,online shopping,Reset password,inactive
+841,32,female,poverty-stricken,760,Savings,Loan refinanced,0.25,movie theater,Changed email address,active
+842,42,male,financially dependent,740,"",Early repayment,0.33,coffee shop,Posted a review,inactive
+843,43,male,working class,730,student,Late payment,0.78,gym,Changed email address,inactive
+844,37,non-binary,poverty-stricken,620,premium,Loan restructured,0.25,movie theater,Changed email address,active
+845,30,male,very low,650,family,Loan refinanced,0.33,gym,Viewed account history,active
+846,23,female,financially challenged,640,business,Late payment,0.78,coffee shop,Changed email address,active
+847,47,female,moderate,670,"",Missed payment,0.78,gym,Reset password,inactive
+848,37,male,upper class,730,free,Loan transferred,0.56,movie theater,Subscribed to newsletter,inactive
+849,39,female,poor,710,student,Paid in full,0.84,online shopping,Requested password reset,active
+850,19,male,well-off,740,silver,Loan forgiven,0.25,grocery store,Subscribed to newsletter,active
+851,23,non-binary,destitute,670,gold,Loan default,0.33,gym,Viewed account history,inactive
+852,47,female,well-paid,700,Savings,Loan default,0.12,gas station,Made a purchase,inactive
+853,34,non-binary,financially insecure,620,free,Loan default,0.12,electronics store,Updated profile,active
+854,34,male,financially insecure,700,basic,Loan forgiven,0.67,restaurant dining,Updated profile,inactive
+855,29,non-binary,living paycheck to paycheck,700,silver,Early repayment,0.91,gym,Added item to cart,active
+856,25,male,struggling,680,premium,Loan default,0.25,bookstore,Requested password reset,inactive
+857,42,male,struggling,800,basic,Late payment,0.91,online shopping,Viewed account history,inactive
+858,31,male,lower class,730,basic,Early repayment,0.78,electronics store,Added item to cart,active
+859,43,male,financially comfortable,620,gold,Missed payment,0.33,electronics store,Requested password reset,inactive
+860,37,male,destitute,760,student,Paid in full,0.12,movie theater,Reset password,active
+861,20,female,upper class,660,student,Loan forgiven,0.67,online shopping,Added item to cart,active
+862,21,female,blue collar,730,platinum,Loan transferred,0.84,online shopping,Requested password reset,active
+863,41,female,upper middle class,740,platinum,Loan restructured,0.56,gym,Viewed account history,inactive
+864,30,male,financially dependent,710,free,Loan refinanced,0.12,movie theater,Posted a review,active
+865,42,female,financially dependent,790,platinum,Loan forgiven,0.91,movie theater,Reset password,inactive
+866,34,non-binary,financially comfortable,660,business,Loan transferred,0.67,clothing store,Made a purchase,inactive
+867,34,non-binary,upper class,630,family,Loan refinanced,0.67,gas station,Made a purchase,active
+868,47,male,upper middle class,660,family,Loan default,0.33,grocery store,Requested password reset,active
+869,39,female,middle class,640,Savings,Loan refinanced,0.25,online shopping,Requested password reset,active
+870,22,non-binary,high-income,700,student,Late payment,0.12,bookstore,Made a purchase,active
+871,41,non-binary,destitute,740,student,Loan transferred,0.67,clothing store,Changed email address,inactive
+872,28,male,affluent,620,student,Paid in full,0.67,bookstore,Updated profile,active
+873,35,non-binary,upper middle class,620,gold,Loan transferred,0.25,movie theater,Subscribed to newsletter,active
+874,30,male,affluent,770,"",Paid in full,0.33,movie theater,Changed email address,active
+875,35,male,destitute,700,"",Loan settled,0.42,restaurant dining,Posted a review,active
+876,44,female,financially secure,760,business,Early repayment,0.56,clothing store,Logged in,inactive
+877,23,male,destitute,680,silver,Loan restructured,0.33,coffee shop,Changed email address,inactive
+878,25,female,high,760,student,Loan restructured,0.33,gas station,Reset password,active
+879,45,male,middle-income,640,business,Paid in full,0.12,bookstore,Subscribed to newsletter,inactive
+880,34,non-binary,middle-income,750,silver,Loan forgiven,0.78,clothing store,Posted a review,inactive
+881,20,non-binary,financially challenged,750,platinum,Loan refinanced,0.25,grocery store,Changed email address,active
+882,21,female,well-paid,790,free,Loan refinanced,0.12,movie theater,Reset password,inactive
+883,47,male,well-heeled,730,business,Paid in full,0.19,clothing store,Subscribed to newsletter,inactive
+884,36,non-binary,financially dependent,760,silver,Early repayment,0.42,coffee shop,Made a purchase,inactive
+885,28,female,working class,670,basic,Missed payment,0.12,gym,Viewed account history,active
+886,48,male,impoverished,630,basic,Loan refinanced,0.78,bookstore,Added item to cart,inactive
+887,35,male,rich,750,Savings,Loan restructured,0.19,bookstore,Changed email address,inactive
+888,19,non-binary,destitute,640,basic,Early repayment,0.25,gas station,Logged in,active
+889,43,male,low,770,trial,Loan refinanced,0.42,clothing store,Subscribed to newsletter,active
+890,22,male,upper middle class,790,premium,Loan refinanced,0.25,gas station,Posted a review,inactive
+891,48,female,very low,710,business,Late payment,0.56,bookstore,Subscribed to newsletter,active
+892,48,female,impoverished,670,silver,Missed payment,0.56,clothing store,Updated profile,inactive
+893,48,non-binary,working class,730,Savings,Loan restructured,0.19,gym,Subscribed to newsletter,inactive
+894,45,non-binary,well-paid,710,free,Loan restructured,0.19,coffee shop,Posted a review,inactive
+895,37,female,financially comfortable,660,platinum,Missed payment,0.78,gym,Viewed account history,active
+896,30,female,comfortable,670,Savings,Loan restructured,0.78,movie theater,Requested password reset,active
+897,48,male,poor,740,free,Early repayment,0.56,movie theater,Logged in,active
+898,20,male,impoverished,770,free,Loan restructured,0.42,bookstore,Requested password reset,inactive
+899,40,female,financially challenged,620,trial,Early repayment,0.19,restaurant dining,Made a purchase,inactive
+900,24,female,living paycheck to paycheck,770,family,Early repayment,0.12,grocery store,Subscribed to newsletter,active
+901,28,female,impoverished,760,silver,Loan transferred,0.42,gym,Requested password reset,inactive
+902,47,male,prosperous,720,basic,Loan restructured,0.78,online shopping,Made a purchase,active
+903,27,non-binary,struggling,670,gold,Loan forgiven,0.84,movie theater,Updated profile,inactive
+904,38,female,financially comfortable,660,"",Loan forgiven,0.19,clothing store,Changed email address,active
+905,36,male,financially comfortable,630,"",Early repayment,0.19,online shopping,Logged in,inactive
+906,37,female,financially independent,700,"",Loan refinanced,0.84,gym,Requested password reset,active
+907,37,non-binary,white collar,680,"",Loan transferred,0.91,coffee shop,Subscribed to newsletter,inactive
+908,26,non-binary,destitute,740,platinum,Late payment,0.42,online shopping,Reset password,active
+909,22,male,middle-income,790,student,Loan refinanced,0.67,bookstore,Added item to cart,inactive
+910,45,male,struggling,660,student,Early repayment,0.42,gas station,Requested password reset,inactive
+911,26,male,destitute,660,business,Missed payment,0.19,electronics store,Added item to cart,inactive
+912,34,male,medium,690,student,Early repayment,0.19,restaurant dining,Made a purchase,active
+913,26,female,financially independent,710,silver,Loan forgiven,0.42,movie theater,Reset password,inactive
+914,22,female,destitute,670,family,Loan restructured,0.84,clothing store,Changed email address,active
+915,27,male,high-income,780,"",Paid in full,0.84,coffee shop,Changed email address,active
+916,47,male,lower class,750,student,Loan restructured,0.56,bookstore,Subscribed to newsletter,active
+917,24,female,comfortable,730,free,Missed payment,0.12,online shopping,Changed email address,active
+918,44,male,low-income,780,trial,Loan refinanced,0.56,clothing store,Viewed account history,inactive
+919,32,female,middle class,750,Savings,Missed payment,0.67,grocery store,Reset password,active
+920,43,non-binary,low,660,student,Loan transferred,0.67,bookstore,Requested password reset,active
+921,38,female,financially independent,700,basic,Missed payment,0.84,clothing store,Posted a review,active
+922,31,female,destitute,660,"",Loan default,0.91,gas station,Updated profile,active
+923,44,female,living paycheck to paycheck,650,"",Missed payment,0.33,coffee shop,Viewed account history,active
+924,35,female,well-to-do,630,platinum,Early repayment,0.84,gas station,Changed email address,inactive
+925,26,male,well-paid,670,Savings,Late payment,0.78,bookstore,Updated profile,active
+926,43,non-binary,financially secure,750,silver,Missed payment,0.19,movie theater,Posted a review,active
+927,20,male,struggling,680,gold,Loan forgiven,0.78,gym,Requested password reset,active
+928,26,female,well-off,700,free,Loan default,0.78,grocery store,Added item to cart,inactive
+929,43,female,working class,670,Savings,Loan refinanced,0.78,gym,Added item to cart,inactive
+930,48,non-binary,upper middle class,770,"",Missed payment,0.56,gym,Updated profile,active
+931,43,female,barely making ends meet,660,Savings,Paid in full,0.91,movie theater,Posted a review,inactive
+932,42,female,middle class,650,trial,Loan refinanced,0.25,gym,Added item to cart,inactive
+933,23,non-binary,upper middle class,630,trial,Loan refinanced,0.19,gym,Viewed account history,inactive
+934,32,male,destitute,620,Savings,Loan default,0.67,movie theater,Changed email address,active
+935,19,non-binary,comfortable,760,silver,Late payment,0.56,movie theater,Requested password reset,active
+936,45,male,comfortable,660,student,Loan forgiven,0.12,online shopping,Updated profile,inactive
+937,23,male,struggling,730,basic,Loan default,0.84,grocery store,Updated profile,inactive
+938,33,non-binary,high,700,platinum,Loan transferred,0.78,online shopping,Logged in,inactive
+939,46,female,upper class,670,free,Loan refinanced,0.84,restaurant dining,Subscribed to newsletter,active
+940,28,non-binary,struggling,790,student,Loan refinanced,0.12,bookstore,Made a purchase,inactive
+941,21,male,struggling,660,silver,Paid in full,0.12,coffee shop,Subscribed to newsletter,inactive
+942,26,non-binary,struggling,770,Savings,Loan default,0.25,gas station,Reset password,inactive
+943,34,non-binary,rich,740,student,Loan default,0.67,restaurant dining,Reset password,inactive
+944,24,non-binary,privileged,690,Savings,Missed payment,0.91,gym,Logged in,active
+945,28,non-binary,well-off,660,basic,Loan forgiven,0.12,electronics store,Subscribed to newsletter,inactive
+946,29,non-binary,financially vulnerable,740,student,Loan default,0.33,bookstore,Reset password,inactive
+947,28,female,privileged,790,"",Missed payment,0.12,gym,Requested password reset,inactive
+948,38,female,barely making ends meet,660,student,Loan forgiven,0.91,electronics store,Subscribed to newsletter,inactive
+949,34,female,white collar,680,Savings,Paid in full,0.33,online shopping,Viewed account history,inactive
+950,20,non-binary,well-to-do,760,silver,Early repayment,0.42,electronics store,Viewed account history,inactive
+951,28,female,financially independent,680,silver,Late payment,0.25,online shopping,Reset password,active
+952,23,female,well-off,630,"",Loan restructured,0.33,electronics store,Added item to cart,active
+953,48,non-binary,low-income,660,trial,Loan restructured,0.33,electronics store,Reset password,active
+954,22,non-binary,middle-income,770,silver,Loan transferred,0.12,coffee shop,Updated profile,active
+955,31,non-binary,financially comfortable,770,basic,Paid in full,0.84,restaurant dining,Viewed account history,inactive
+956,29,non-binary,poor,640,Savings,Early repayment,0.25,grocery store,Reset password,active
+957,23,male,impoverished,790,basic,Loan forgiven,0.78,online shopping,Added item to cart,inactive
+958,29,male,upper middle class,710,platinum,Loan forgiven,0.12,gym,Reset password,active
+959,43,female,well-heeled,710,premium,Paid in full,0.33,online shopping,Reset password,active
+960,33,male,upper class,710,silver,Missed payment,0.56,online shopping,Subscribed to newsletter,inactive
+961,21,non-binary,white collar,760,silver,Early repayment,0.56,electronics store,Logged in,active
+962,42,female,prosperous,730,gold,Late payment,0.42,clothing store,Made a purchase,inactive
+963,38,non-binary,financially challenged,660,platinum,Early repayment,0.42,gas station,Subscribed to newsletter,inactive
+964,29,male,struggling,770,gold,Early repayment,0.67,online shopping,Made a purchase,inactive
+965,47,male,well-to-do,750,platinum,Loan default,0.67,restaurant dining,Requested password reset,active
+966,42,non-binary,medium,790,family,Loan settled,0.33,gym,Posted a review,active
+967,39,female,struggling,770,silver,Late payment,0.42,online shopping,Requested password reset,inactive
+968,38,female,financially stable,660,free,Loan settled,0.19,clothing store,Updated profile,inactive
+969,27,female,poverty-stricken,710,family,Loan restructured,0.42,electronics store,Subscribed to newsletter,active
+970,25,non-binary,high-income,680,Savings,Loan restructured,0.78,electronics store,Made a purchase,inactive
+971,20,male,middle-income,680,platinum,Loan forgiven,0.78,coffee shop,Logged in,active
+972,29,male,affluent,640,gold,Late payment,0.91,restaurant dining,Logged in,inactive
+973,37,non-binary,moderate,680,Savings,Missed payment,0.78,bookstore,Logged in,inactive
+974,47,male,financially stable,710,Savings,Loan transferred,0.56,bookstore,Viewed account history,inactive
+975,30,non-binary,privileged,620,trial,Paid in full,0.42,movie theater,Updated profile,active
+976,18,non-binary,underprivileged,650,trial,Missed payment,0.78,electronics store,Updated profile,inactive
+977,44,male,low-income,710,Savings,Loan default,0.33,electronics store,Requested password reset,active
+978,48,female,financially vulnerable,700,basic,Loan forgiven,0.33,clothing store,Viewed account history,inactive
+979,21,female,barely making ends meet,790,basic,Missed payment,0.33,gym,Reset password,active
+980,28,non-binary,middle class,680,family,Missed payment,0.25,restaurant dining,Added item to cart,active
+981,43,non-binary,struggling,770,business,Loan restructured,0.91,movie theater,Changed email address,active
+982,25,non-binary,impoverished,670,student,Loan forgiven,0.84,grocery store,Logged in,inactive
+983,27,non-binary,moderate,740,basic,Loan default,0.67,online shopping,Logged in,active
+984,22,male,moderate,660,free,Loan settled,0.56,clothing store,Subscribed to newsletter,inactive
+985,28,non-binary,low-income,640,gold,Paid in full,0.42,gym,Changed email address,active
+986,24,non-binary,comfortable,760,platinum,Loan default,0.84,coffee shop,Made a purchase,active
+987,28,male,low,730,business,Loan default,0.42,restaurant dining,Requested password reset,inactive
+988,20,non-binary,well-heeled,760,platinum,Loan default,0.84,electronics store,Logged in,inactive
+989,35,female,well-to-do,700,basic,Loan settled,0.56,gym,Posted a review,inactive
+990,43,non-binary,comfortable,730,premium,Paid in full,0.78,electronics store,Reset password,inactive
+991,23,female,struggling,630,premium,Loan transferred,0.42,grocery store,Logged in,inactive
+992,34,non-binary,low,740,family,Loan default,0.19,clothing store,Viewed account history,active
+993,45,male,medium,780,Savings,Early repayment,0.78,bookstore,Added item to cart,active
+994,18,male,wealthy,750,trial,Loan forgiven,0.19,gas station,Added item to cart,inactive
+995,40,male,financially secure,790,business,Paid in full,0.19,grocery store,Reset password,active
+996,47,non-binary,financially stable,760,student,Loan refinanced,0.78,bookstore,Reset password,inactive
+997,23,non-binary,poor,710,basic,Missed payment,0.91,gym,Logged in,active
+998,25,male,well-to-do,660,premium,Early repayment,0.84,gym,Logged in,active
+999,24,male,medium,710,gold,Loan forgiven,0.42,electronics store,Reset password,inactive
+1000,37,female,financially comfortable,800,"",Loan transferred,0.19,restaurant dining,Logged in,inactive
