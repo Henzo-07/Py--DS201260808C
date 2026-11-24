@@ -5,8 +5,11 @@ import pandas as pd
 # Page Configuration
 st.set_page_config(page_title="Customer Classification app", page_icon="📊", layout="centered")
 
+
+st.markdown("=" * 20)
 st.title("📊 Customer Classification Dashboard")
 st.write("Enter the transaction details to classify which group a customer belong to.")
+st.markdown("=" * 20)
 
 # Function to load the model using joblib
 @st.cache_resource
